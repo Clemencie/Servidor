@@ -9,3 +9,6 @@ Estrutura da campanha:
 | `SISTEMA_BOTI.md` | Guia completo do sistema Blades of the Immortals (regras aprendidas). |
 | `BACKUP_CAMPANHA.md` | Backup completo da história — copie para outra conversa se o limite for atingido. |
 | `FICHA_PERSONAGEM.md` | Ficha detalhada e permanente do personagem, com histórico de alterações. |
+| `MESTRE_NUCLEO.md` | A espinha dorsal da mestragem: ciclo de 8 fases, constantes invioláveis e subsistemas. |
+| `mestre.py` | Painel de estado executável (`python3 mestre.py`): integridade, personagem, clocks, rolagens, checklist. |
+| `retratos/` | Retratos estilo manhwa do elenco (PC, família, Deusa, vilões). |
