@@ -111,6 +111,14 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - Aguardando: como Mu-Jin age no dia da cobrança.
 - **Declaração do jogador (postura de vida):** Mu-Jin passa os dias **treinando e vivendo bem, como gostaria de ter vivido na vida passada** — comendo bem, aproveitando a família, treinando por prazer e não por fuga. Isso expressa a crença central ("Viva de verdade") → **+1 XP** concedido (gatilho decidido pelo jogador, regra BoTI). A Deusa está satisfeita; a condição dela segue plenamente honrada — o talento continua florescendo.
 
+### Sessão 4 — Capítulo 2: A Cobrança (2026-07-24)
+- Mu-Jin decidiu **espiar a negociação** do telhado do pavilhão de hóspedes.
+- **Action Roll (Mask 0d, pool zero): [5,6]→menor 5 = SUCESSO COM CONSEQUÊNCIAS.**
+- O que ele ouviu: dívida = **8.000 taéis de prata** (principal + juros de 3 anos, vencendo hoje); o pai ofereceu a rota do rio (recusada com deboche); **a dívida é pretexto** — o Senhor Sectário do Punho de Ferro quer apenas uma coisa: *"Entreguem o menino da andorinha, e a dívida morre hoje."*
+- NPC novo revelado: **Ancião Cheol** — cultivador do Punho de Ferro, qi de "represa fechada", MUITO acima do patriarca; veio pessoalmente por ordem do Senhor Sectário.
+- **Consequência do 5:** Dokgo Hwan percebeu Mu-Jin no telhado e o expôs diante do pátio inteiro, convidando-o a descer. Todos olhando; o pai lívido.
+- Aguardando: reação de Mu-Jin exposto no telhado.
+
 ---
 
 ## 🏮 VIDA COTIDIANA NO CLÃ YEON (retrato aos 7 anos)
@@ -134,7 +142,8 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 | **Yeon Baek-San** | Patriarca do Clã Yeon, espadachim orgulhoso | Pai | Vivo |
 | **Dama Seo Hwa-Ryun** | De família mercante; prática e afetuosa | Mãe | Viva |
 | **Yeon Mu-Hyuk** | Herdeiro do clã; talento mediano, esforço enorme | Irmão mais velho (+6 anos) | Vivo |
-| **Dokgo Hwan** | Emissário da Seita do Punho de Ferro (credora do Clã Yeon); frio, calculista | Testemunhou o talento de Mu-Jin no teste | Ativo — interesse desconhecido |
+| **Dokgo Hwan** | Emissário da Seita do Punho de Ferro (credora do Clã Yeon); frio, calculista | Testemunhou o talento de Mu-Jin no teste; percebeu-o espionando a cobrança | Ativo — no pátio do clã |
+| **Ancião Cheol** | Cultivador poderoso do Punho de Ferro (qi de "represa fechada", muito acima do patriarca); executor do Senhor Sectário | Veio garantir a "cobrança" — ou seja, Mu-Jin | Ativo — no pátio do clã |
 
 ---
 
@@ -166,9 +175,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Manhã do dia da cobrança, portões do Clã Yeon. Mu-Jin tem 7 anos,
-3ª camada de Condensação de Qi (segredo parcial — o clã sabe que ele é rápido,
-não O QUANTO), fundamentos de espada dominados. Dokgo Hwan chegou com ~20 homens
-armados do Punho de Ferro. O clã não tem o dinheiro. O patriarca vai receber a
-comitiva no pátio principal. O jogador decide a postura de Mu-Jin na cena da
-cobrança (participar aberto, espiar, plano próprio etc.).
+**Última cena:** Pátio principal do Clã Yeon, manhã da cobrança. Mu-Jin espiou
+do telhado (Mask 0d = 5): ouviu que a dívida é de 8.000 taéis, que é PRETEXTO —
+o Senhor Sectário do Punho de Ferro quer Mu-Jin como pagamento — e que o
+Ancião Cheol (muito acima do pai em poder) veio garantir isso. CONSEQUÊNCIA:
+Dokgo Hwan o notou e o expôs: "Desça, segundo jovem mestre. Estávamos falando
+de você." Pátio inteiro olhando (pai, comitiva armada, anciões do clã).
+O jogador decide a próxima ação de Mu-Jin.
