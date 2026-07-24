@@ -145,6 +145,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
   - **Sucesso:** Hwa-Ryun reconheceu a PRIMEIRA emoção 100% verdadeira do filho; a porta reabriu — ela o abraçou, aceitou o "ainda não" implícito e selou aliança de mãe: os dois contra o mundo, no ritmo dele.
   - **CONSEQUÊNCIA:** ela aceitou a emoção como verdade, mas AGORA TEM CERTEZA de que existe um segredo maior (a resposta não explicou línguas no sono, olhar adulto, etc.). Estabeleceu um TERMO: *"Um dia — não hoje — você vai me contar o resto. E quando esse dia chegar, sem meias-palavras."* (dívida de verdade pendente com a mãe, registrada como gancho). Além disso, manteve o plano de acionar a família Seo/dote — movimento de dinheiro grande em 30 dias continua (risco de atrair atenção).
 - Connection Clock "Família Yeon" reaquecido (a ferida com a mãe fechou parcialmente; com o pai segue aberta).
+- **O plano das bestas místicas:** Mu-Jin perguntou à mãe onde conseguir bestas místicas. Ela apresentou 3 rotas: (1) **Leilão das Cem Presas** em Cheonan — 5 dias, compra/venda legal com selo; (2) **Montanhas Heukun** — 2 dias, ex-concessão de caça do clã, bestas valiosas (500–5.000 taéis), rumor de "algo grande" no pico há 2 anos; (3) **Mercado Negro de Porto Mun** — 3 dias, contatos da família Seo, bestas contrabandeadas (algumas roubadas do próprio Punho de Ferro).
+- Mu-Jin declarou o objetivo: **caçar bestas para levantar dinheiro para a família** e, depois, **comprar um companheiro místico para crescer junto com ele**.
+- **Fortuna (reação de Hwa-Ryun, 2d): [3,3] = RESULTADO RUIM** — o coração de mãe venceu o faro de negócio: **ela PROIBIU** ("Você tem SETE anos; está confinado por ordem do seu pai; não vai caçar besta nenhuma"). A porta oficial fechou — qualquer ida às montanhas terá que ser escondida, ou Mu-Jin terá que convencer alguém com autoridade/força (pai? Velho Gok?) a levá-lo.
+- Situação: confinado, 30 dias no relógio, plano de bestas vetado oficialmente.
 
 ---
 
@@ -203,11 +207,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Corredor/escritório, noite. Mu-Jin segurou o pulso da mãe e
-entregou a emoção verdadeira (vida tranquila + ódio de quem quer tirá-la).
-Sway [5]: a porta reabriu — abraço, aliança de mãe selada ("no seu ritmo"),
-MAS ela agora tem certeza de que há um segredo maior e cobrou o termo: "um dia
-você me conta o resto, sem meias-palavras" (gancho pendente). Ela mantém o
-plano do dote/família Seo. Clocks: Senhor Sectário 0/8 (30 dias). Stress 2/9.
-Próximos rumos possíveis: os 30 dias (dinheiro, treino, plano contra a seita),
-conversa com o pai/irmão, ou o que o jogador decidir.
+**Última cena:** Escritório, noite. Mu-Jin revelou o plano (caçar bestas por
+dinheiro + companheiro místico depois). Fortuna [3,3]: o coração de mãe venceu —
+Hwa-Ryun PROIBIU (7 anos + confinamento do pai). Rotas conhecidas: Leilão das
+Cem Presas (Cheonan, 5d), Montanhas Heukun (2d, "algo grande" no pico),
+Mercado Negro de Porto Mun (3d, contatos Seo). Para caçar, Mu-Jin precisará:
+escapar escondido, OU convencer o pai, OU recrutar aliado (Velho Gok?).
+Clocks: Senhor Sectário 0/8 (30 dias). Stress 2/9. Jogador decide o caminho.
