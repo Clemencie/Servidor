@@ -159,6 +159,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
   - **Dinheiro (fortuna 2d): [2,4] = SUCESSO C/ CONSEQUÊNCIAS** — **8.000 taéis LEVANTADOS** (dote + joias + casa Seo), guardados no cofre do clã. Consequências: (a) o avô Seo cobrou condição — "a casa Seo quer conhecer o neto" (visita futura obrigatória); (b) o Punho de Ferro soube do dinheiro e respondeu por bilhete: o Senhor Sectário virá no 30º dia para receber o pagamento E conhecer Mu-Jin — "uma coisa não substitui a outra".
 - **Clock "A Visita do Senhor Sectário": ◼◼◼◼◼◼☐☐ (6/8).**
 - Estado: faltam poucos dias para a visita; Mu-Jin com tendões inflamados, cultivo travado, fachada furada; taéis no cofre.
+- **Últimos 2 dias (véspera):** Mu-Jin descansou e treinou leve.
+  - **Recover (Endure 1d): [5] = SUCESSO C/ CONSEQUÊNCIA** — pulsos quase curados (recovery 6/8; dor só em esforço máximo). Consequência: para descansar DE VERDADE ele teve que aceitar os cuidados da mãe (chás, horários, supervisão) — o complexo inteiro notou o "tesouro do clã sendo embrulhado": expectativa/ansiedade coletiva sobre o menino no dia da visita.
+  - **Train leve (Attune 2d): [2,3] = RUIM** — a consolidação confirmou DEFINITIVAMENTE: sem a continuação do manual não há progresso; pior, a 3ª camada "cheia demais" começa a pressionar os meridianos (qi acumulado sem para onde subir — desconforto crônico leve; risco futuro se ficar meses sem solução).
+- **Clock "A Visita do Senhor Sectário": ◼◼◼◼◼◼◼◼ (8/8 — COMPLETO). O DIA CHEGOU.**
 
 ---
 
@@ -201,7 +205,7 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 | Objetivo | Status | Observações |
 |----------|--------|-------------|
 | **A Dívida do Clã Yeon** (Seita do Punho de Ferro) | Clock ◼◼◼◼◼◼ (6/6 COMPLETO) | Ultimato dado: 8.000 taéis em 30 dias, ou Mu-Jin |
-| **A Visita do Senhor Sectário** | Clock ◼◼◼◼◼◼☐☐ (6/8) | Ele vem no 30º dia: receber os 8.000 taéis E conhecer Mu-Jin — "uma coisa não substitui a outra" |
+| **A Visita do Senhor Sectário** | Clock ◼◼◼◼◼◼◼◼ (8/8 COMPLETO) | O DIA CHEGOU — comitiva do Senhor Sectário às portas |
 | **Encontrar a continuação do método de cultivo** | Aberto | Manual do Sopro da Andorinha incompleto; cultivo travado na 3ª camada |
 | **A visita à casa Seo** | Pendente | Condição do avô Seo pelo empréstimo: "quero conhecer o neto" |
 | Honrar a condição da Deusa ("Viva de verdade") | Contínuo | Crença central do personagem |
@@ -219,11 +223,9 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Véspera da visita do Senhor Sectário (clock 6/8). Os 30 dias
-passaram: 8.000 taéis no cofre (dote+joias+casa Seo), MAS o Punho de Ferro
-avisou que o pagamento não cancela a "visita de conhecimento" a Mu-Jin.
-Estado do PC: cultivo TRAVADO na 3ª camada (manual incompleto — flaw), tendões
-dos pulsos inflamados (condição leve), fachada de força furada (fofoca chegou
-a Dokgo Hwan), stress 2/9. Dívidas narrativas: visita à casa Seo; "o resto da
-verdade" para a mãe. O jogador decide como Mu-Jin se prepara/age na véspera
-e no dia da visita do Senhor Sectário.
+**Última cena:** O 30º DIA CHEGOU (clock 8/8). Estado de Mu-Jin: pulsos quase
+curados (dor só em esforço máximo), cultivo travado na 3ª camada com qi
+"cheio demais" pressionando os meridianos, stress 2/9, 8.000 taéis no cofre.
+O Senhor Sectário do Punho de Ferro está chegando ao Clã Yeon para receber o
+pagamento e "conhecer" Mu-Jin. Cena da chegada pendente — o jogador decide a
+postura de Mu-Jin no encontro.

@@ -47,8 +47,8 @@
 ## 5. STRESS, CONDIÇÕES E CICATRIZES
 
 - **Stress:** 2 / 9 → `◼◼☐☐☐☐☐☐☐` _(2 de push — Ímpeto do Ascendente na cobrança)_
-- **Condition Track:** ⚠️ **Leve — "Tendões inflamados (pulsos)"** (overtraining dos 30 dias; treino de espada suspenso na última semana)
-- **Recovery Clock:** ◼◼☐☐☐☐☐☐ (em recuperação)
+- **Condition Track:** ⚠️ Leve — "Tendões inflamados (pulsos)" — **quase curada** (descanso disciplinado; dor residual só em esforço máximo)
+- **Recovery Clock:** ◼◼◼◼◼◼☐☐ (6/8 — recuperação quase completa)
 - **Scars (cicatrizes permanentes):** nenhuma
 
 ## 6. CRENÇAS & CONNECTION CLOCKS
