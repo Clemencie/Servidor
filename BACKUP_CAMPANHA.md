@@ -126,6 +126,11 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - **Fortuna (reação do pai, 1d): [3] = RUIM** — Baek-San sentiu como traição/facada: o filho se oferecendo como mercadoria na frente do clã; reagiu com dor e fúria contida ("Yeon Mu-Jin, CALE-SE"), mas a fala do menino JÁ abriu a porta da negociação — impossível fechá-la.
 - **Fortuna (qualidade da oferta, 2d): [2,1] = RUIM** — a seita, vendo interesse do próprio menino, LEU FRAQUEZA e baixou a oferta: Dokgo Hwan ofereceu apenas **perdão da dívida + 500 taéis "de cortesia"** — e a exigência humilhante de Mu-Jin como **discípulo EXTERNO** (servo com aulas, sem proteção de discípulo interno, sem direito a visitas por 5 anos). Oferta objetivamente insultante para um talento daquele nível.
 - Situação aberta: o pai à beira de explodir; Cheol observando divertido; a oferta insultante na mesa; Mu-Jin decide como responder (aceitar, recusar, contra-ofertar, provocar...).
+- **Resposta de Mu-Jin:** gargalhada alta + ameaça maníaca deliberada: *"Vou arruinar todos os membros ridículos dessa sua ordem inútil de dentro pra fora; quem ficar no meu caminho vira poeira. Ainda deseja que alguém como eu entre na sua preciosa facção?"* (olhar severo/maníaco — tática: tornar-se mercadoria "defeituosa").
+- **Action Roll (Sway 1d, posição desesperada): [4] = SUCESSO COM CONSEQUÊNCIAS.**
+  - **Sucesso:** a moldura de "mercadoria barata" MORREU. Dokgo Hwan recuou; a oferta de discípulo externo foi retirada na hora; parte da comitiva ficou visivelmente perturbada ("essa criança não é normal").
+  - **CONSEQUÊNCIA (grave, posição desesperada):** o tiro saiu PELA CULATRA no pior alvo possível — **Ancião Cheol ADOROU**: temperamento demoníaco + talento monstruoso é exatamente o perfil que o **Senhor Sectário** procura para discípulo DIRETO. Cheol encerrou a negociação pessoalmente: *"A dívida vence em 30 dias, integral. Ou 8.000 taéis... ou o menino — e agora não será como discípulo externo. O Senhor Sectário virá conhecê-lo PESSOALMENTE."* **Clock da Dívida: ◼◼◼◼◼◼ (6/6 — COMPLETO).** A comitiva partiu; a ameaça agora tem data e é maior que antes.
+- Novo clock de crise: **"A Visita do Senhor Sectário" ☐☐☐☐☐☐☐☐ (8) — 30 dias.**
 
 ---
 
@@ -167,7 +172,8 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 
 | Objetivo | Status | Observações |
 |----------|--------|-------------|
-| **A Dívida do Clã Yeon** (Seita do Punho de Ferro) | Clock ◼◼◼◼◼☐ (5/6) | PRAZO VENCIDO — Dokgo Hwan está nos portões com comitiva armada; o clã não tem o dinheiro |
+| **A Dívida do Clã Yeon** (Seita do Punho de Ferro) | Clock ◼◼◼◼◼◼ (6/6 COMPLETO) | Ultimato dado: 8.000 taéis em 30 dias, ou Mu-Jin |
+| **A Visita do Senhor Sectário** | Clock ☐☐☐☐☐☐☐☐ (0/8) | Em 30 dias o líder do Punho de Ferro vem PESSOALMENTE conhecer Mu-Jin |
 | Honrar a condição da Deusa ("Viva de verdade") | Contínuo | Crença central do personagem |
 
 ---
@@ -183,9 +189,11 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Pátio, negociação aberta POR Mu-Jin (pediu ao pai que ouvisse a
-oferta; disse que "dependendo, iria de bom grado"). Pai reagiu com dor/fúria
-(fortuna [3]) mas a porta abriu. A seita leu fraqueza e fez oferta INSULTANTE
-(fortuna [2,1]): perdão da dívida + 500 taéis + Mu-Jin como discípulo EXTERNO
-(servo com aulas, sem visitas por 5 anos). Cheol se diverte; o pai está à beira
-de explodir. Mu-Jin decide a resposta à oferta.
+**Última cena:** A comitiva do Punho de Ferro partiu. O pátio ficou em silêncio
+absoluto após o ultimato de Cheol: **30 dias — 8.000 taéis ou Mu-Jin** (agora
+como candidato a discípulo DIRETO do Senhor Sectário, que virá pessoalmente).
+A gargalhada maníaca de Mu-Jin matou a oferta humilhante, mas elevou a aposta.
+No pátio restam: o pai (entre fúria, medo e um filho que não reconhece mais),
+a mãe que assistiu da varanda, os anciões em pânico, e Mu-Jin com stress 2/9.
+Cena doméstica pós-crise pendente — o confronto com o pai é inevitável.
+O jogador decide como Mu-Jin lida com a família e com os 30 dias.
