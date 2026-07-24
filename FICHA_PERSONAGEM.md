@@ -13,8 +13,8 @@
 | **Nome do cultivador** | _(a definir)_ |
 | **Sistema** | Blades of the Immortals v0.3.2 (Forged in the Dark) |
 | **Playbook** | _(a escolher: Ascendant, Assassin, Assured, Beast, Exorcist, Fanatic, Inheritor, Scholar ou Witch)_ |
-| **Conceito (uma frase)** | _(a definir)_ |
-| **Herança / Origem** | _(a definir)_ |
+| **Conceito (uma frase)** | Um homem da Terra moderna que morreu e reencarna no mundo Murim, com as memórias da vida anterior intactas. |
+| **Herança / Origem** | Reencarnado — alma vinda da Terra (século XXI), renascida no Murim pela mão da Deusa da Reencarnação. |
 | **Aparência** | _(a definir)_ |
 | **Facção / Seita** | _(a definir na criação de cenário)_ |
 
@@ -89,7 +89,14 @@ _(a definir — a grande trajetória do personagem)_
 
 ## 11. HISTÓRIA / BACKGROUND
 
-_(história completa do cultivador — a definir)_
+**Vida anterior (Terra):** _(a definir: quem ele era, como morreu)_
+
+**A Barganha:** Após a morte, sua alma foi levada ao Vazio Entre Vidas, diante
+da **Deusa da Reencarnação** — belíssima e provocante — que lhe ofereceu
+renascer no mundo Murim. Os termos da barganha (dons, origem do renascimento,
+eventuais preços) serão decididos no prólogo.
+
+**Nova vida (Murim):** _(a definir em jogo)_
 
 ## 12. LAÇOS, ALIADOS E INIMIGOS
 

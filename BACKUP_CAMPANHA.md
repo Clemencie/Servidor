@@ -34,10 +34,21 @@
 
 ## 🌍 CENÁRIO / AMBIENTAÇÃO
 
-- **Mundo:** _(a definir)_
-- **Tom da campanha:** _(a definir)_
-- **Local atual:** _(a definir)_
-- **Data/hora no jogo:** _(a definir)_
+- **Mundo:** **Murim** (mundo de artes marciais estilo manhwa coreano/wuxia) — seitas, clãs, o mundo marcial (Kangho/Gangho).
+- **Premissa:** o protagonista é um **reencarnado** — morreu na Terra (vida moderna) e renasce no Murim, mantendo as memórias da vida anterior. A campanha abre diante da **Deusa da Reencarnação** (bela e provocante), no vazio entre vidas, onde ele negocia os termos do seu renascimento.
+- **Tom da campanha:** ação de artes marciais + progressão de cultivo, humor de isekai/manhwa, drama de seitas.
+- **Sistema de cultivo da mesa (Reinos BoTI → escala Murim):**
+  | Reino BoTI | Estágio Murim |
+  |---|---|
+  | 0 | Terceira/Segunda Classe (aprendiz; qi rudimentar) |
+  | 1 | Primeira Classe (일류) |
+  | 2 | Ápice — Jeoljeong (절정) |
+  | 3 | Super Ápice — Choejeoljeong (초절정) |
+  | 4 | Hwagyeong (화경) — mestre transcendente |
+  | 5 | Hyeongyeong (현경) |
+  | 6 | Saengsagyeong (생사경) — domínio sobre vida e morte |
+- **Local atual:** O Vazio Entre Vidas (salão da Deusa da Reencarnação).
+- **Data/hora no jogo:** antes do renascimento.
 
 ---
 
@@ -58,7 +69,7 @@
 
 | Nome | Quem é | Relação com o personagem | Status |
 |------|--------|--------------------------|--------|
-| —    | —      | —                        | —      |
+| **A Deusa da Reencarnação** | Divindade belíssima e provocante que administra o ciclo de renascimentos; conduz a barganha do renascimento do PC | Primeira "conhecida" entre vidas; potencial patrona/observadora recorrente | Ativa — conduzindo a reencarnação |
 
 ---
 
@@ -89,8 +100,10 @@
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** A campanha ainda não começou. Sistema Blades of the Immortals
-aprendido e registrado em `SISTEMA_BOTI.md`. Próximo passo: o jogador escolhe
-o playbook (Ascendant, Assassin, Assured, Beast, Exorcist, Fanatic, Inheritor,
-Scholar ou Witch), depois criamos o cultivador, a facção e o sistema de cultivo
-do cenário juntos.
+**Última cena:** Prólogo prestes a começar — o personagem (recém-morto na Terra)
+está diante da **Deusa da Reencarnação** no Vazio Entre Vidas, decidindo os
+termos do seu renascimento no mundo Murim. Falta definir na criação:
+playbook, nome, causa da morte na Terra, e as escolhas feitas diante da Deusa
+(origem do renascimento, dons/handicaps). O playbook **Inheritor** foi sugerido
+como encaixe natural para reencarnado (legado/memórias de outra vida), mas o
+jogador ainda não escolheu.
