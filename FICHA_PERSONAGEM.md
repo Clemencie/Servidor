@@ -22,10 +22,10 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Reino atual** | 0 — _(nome a definir pelo sistema de cultivo da mesa)_ |
-| **Camada / Reino menor** | — |
-| **Método de Cultivo principal** | _(a definir — faz parte do Panoply)_ |
-| **Progresso de Breakthrough** | ☐☐☐☐☐☐☐☐ (clock 8) |
+| **Reino atual** | 0 — Condensação de Qi (escala Murim: Terceira Classe, topo da faixa infantil) |
+| **Camada / Reino menor** | 3ª camada (avanço absurdo para a idade — crítico no treino do ano 6→7) |
+| **Método de Cultivo principal** | **Sopro da Andorinha Celeste** (método do cofre do Clã Yeon) |
+| **Progresso de Breakthrough** | ◼◼☐☐☐☐☐☐ (clock 8 — rumo à Primeira Classe) |
 
 ## 3. AÇÕES (pool de dados d6)
 
@@ -67,19 +67,20 @@ e a decidir se carrega o Clã Yeon nas costas ou voa para longe dele.
 
 ## 8. HABILIDADES (ABILITIES do playbook)
 
-- _(a definir na criação)_
+- **Ímpeto do Ascendente** *(habilidade inicial — adaptação da mesa para o Ascendant)*: quando Mu-Jin **se força (push)** em uma ação ligada ao seu talento absurdo (cultivo, espada, qi), paga os 2 Stress normais mas recebe **+1d E +1 efeito** (em vez de escolher um só). 1x por cena.
 
 ## 9. PANOPLY — TÉCNICAS E TESOUROS
 
 ### Técnicas
 | Técnica | Tipo | Qualidade | Realm | Condição | Edges / Flaws |
 |---------|------|-----------|-------|----------|---------------|
-| —       | —    | —         | —     | OK       | —             |
+| **Sopro da Andorinha Celeste** | Método de Cultivo | Padrão | 0 | OK | Edge: harmoniza com a raiz de Mu-Jin (fluxo veloz e leve) / Flaw: método incompleto — o manual do clã perdeu os capítulos além da Primeira Classe |
+| **Espada da Andorinha Celeste (Fundamentos)** | Técnica de ataque/movimento | Padrão | 0 | OK | Edge: footwork evasivo característico do clã |
 
 ### Tesouros
 | Tesouro | Tipo | Qualidade | Realm | Condição | Edges / Flaws |
 |---------|------|-----------|-------|----------|---------------|
-| —       | —    | —         | —     | OK       | —             |
+| Espada de treino de aço comum | Arma | Pobre | 0 | OK | Flaw: tamanho infantil, sem fio verdadeiro |
 
 ### Consumíveis
 | Item | Usos restantes | Notas |
@@ -139,3 +140,4 @@ estrela no Clã Yeon"*. Boa fama... e atenção indesejada.
 | 2026-07-24 | Ficha criada (modelo vazio). |
 | 2026-07-24 | Ficha convertida para o sistema Blades of the Immortals; aguardando criação do personagem. |
 | 2026-07-24 | Prólogo concluído: nome (Yeon Mu-Jin), família (Clã Yeon), vida passada (morte por depressão), condição da Deusa ("Viva de verdade"), crenças, Destiny e laços registrados. |
+| 2026-07-24 | Cap.1/ano 6→7: treino do ano — Cultivo CRÍTICO [6,6] (3ª camada, clock breakthrough 2/8), Espada 6 (fundamentos dominados). Método "Sopro da Andorinha Celeste" e habilidade "Ímpeto do Ascendente" adquiridos. Panoply inicial registrado. |

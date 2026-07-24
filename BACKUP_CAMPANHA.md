@@ -79,6 +79,15 @@
 - **Action Roll (Sway 1d): [5] = SUCESSO COM CONSEQUÊNCIAS** — O clã comprou a narrativa: anciões emocionados, o pai proclamou o dia como "o dia em que o Céu abençoou o Clã Yeon"; a rachadura virou lenda ("a marca da andorinha"). CONSEQUÊNCIA: Dokgo Hwan não se comoveu — viu a *atuação perfeita demais* de uma criança de 6 anos. Antes de partir, sussurrou ao patriarca uma proposta: **a Seita do Punho de Ferro oferece "perdoar parte da dívida" em troca de levar Mu-Jin como discípulo externo**. O pai recusou na hora — mas a dívida continua, e a seita agora tem um alvo.
 - Gancho criado: a Seita do Punho de Ferro quer Mu-Jin; prazo da dívida vence em 1 ano (clock de campanha 6: ☐☐☐☐☐☐).
 
+### Sessão 3 — Capítulo 2: Um Ano de Treino / O Retorno do Cobrador (2026-07-24)
+- **Salto temporal de 1 ano** (Mu-Jin: 6 → 7 anos). Downtime rolado:
+  - **Train/Cultivo (Attune 2d): [6,6] = SUCESSO CRÍTICO** — dominou o método do cofre do clã, **Sopro da Andorinha Celeste**, e atingiu a **3ª camada de Condensação de Qi** em um ano (inaudito). Breakthrough clock 2/8.
+  - **Train/Espada (Blitz 1d): [6] = SUCESSO PLENO** — fundamentos da **Espada da Andorinha Celeste** dominados; footwork já supera discípulos adolescentes.
+  - Habilidade inicial do Ascendant definida: **Ímpeto do Ascendente** (push dá +1d E +1 efeito em ações do talento, 1x/cena).
+  - **Fortuna/dinheiro da dívida (1d): [2] = RESULTADO RUIM** — ano cruel: colheitas taxadas, caravana da família materna saqueada, território arrendado perdido. **O clã NÃO tem o dinheiro.** Clock da dívida: ◼◼◼◼◼☐ (5/6).
+- Situação atual: **Dokgo Hwan retornou** com comitiva armada da Seita do Punho de Ferro aos portões do Clã Yeon. Conselho reunido na véspera; mãe escreveu cartas à família mercante; Mu-Hyuk (13) quer lutar.
+- Aguardando: como Mu-Jin age no dia da cobrança.
+
 ---
 
 ## 👥 NPCs CONHECIDOS
@@ -105,7 +114,7 @@
 
 | Objetivo | Status | Observações |
 |----------|--------|-------------|
-| **A Dívida do Clã Yeon** (Seita do Punho de Ferro) | Clock ☐☐☐☐☐☐ (6) | Prazo ~1 ano em jogo; a seita quer Mu-Jin como "pagamento" |
+| **A Dívida do Clã Yeon** (Seita do Punho de Ferro) | Clock ◼◼◼◼◼☐ (5/6) | PRAZO VENCIDO — Dokgo Hwan está nos portões com comitiva armada; o clã não tem o dinheiro |
 | Honrar a condição da Deusa ("Viva de verdade") | Contínuo | Crença central do personagem |
 
 ---
@@ -121,11 +130,9 @@
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Fim da cerimônia do Teste. Mu-Jin (6 anos) virou lenda local:
-talento nunca registrado + "marca da andorinha" no orbe. Dokgo Hwan partiu após
-ter sua proposta (levar Mu-Jin como discípulo em troca de abatimento da dívida)
-recusada pelo patriarca — mas deixou claro que a Seita do Punho de Ferro
-voltará quando a dívida vencer (~1 ano; clock 6 criado). Dokgo Hwan desconfia
-que Mu-Jin não é uma criança normal. Próximos passos possíveis: cenas de
-treinamento (definir habilidade inicial do Ascendant + Método de Cultivo no
-Panoply), vida familiar, ou salto temporal até a crise da dívida.
+**Última cena:** Manhã do dia da cobrança, portões do Clã Yeon. Mu-Jin tem 7 anos,
+3ª camada de Condensação de Qi (segredo parcial — o clã sabe que ele é rápido,
+não O QUANTO), fundamentos de espada dominados. Dokgo Hwan chegou com ~20 homens
+armados do Punho de Ferro. O clã não tem o dinheiro. O patriarca vai receber a
+comitiva no pátio principal. O jogador decide a postura de Mu-Jin na cena da
+cobrança (participar aberto, espiar, plano próprio etc.).
