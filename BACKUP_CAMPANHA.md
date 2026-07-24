@@ -100,10 +100,11 @@
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Prólogo prestes a começar — o personagem (recém-morto na Terra)
-está diante da **Deusa da Reencarnação** no Vazio Entre Vidas, decidindo os
-termos do seu renascimento no mundo Murim. Falta definir na criação:
-playbook, nome, causa da morte na Terra, e as escolhas feitas diante da Deusa
-(origem do renascimento, dons/handicaps). O playbook **Inheritor** foi sugerido
-como encaixe natural para reencarnado (legado/memórias de outra vida), mas o
-jogador ainda não escolheu.
+**Última cena:** Prólogo em andamento, no Vazio Entre Vidas. O jogador já decidiu:
+**playbook Ascendant**, renascer **desde bebê** como **segundo filho de clã nobre**
+(sem responsabilidade de herdeiro). Rolagens de fortuna feitas: clã em **declínio**
+(pool 2d = ruim), talento inato **excepcional** (pool 2d = 6, gênio marcial).
+Falta: (1) o jogador responder quem era e como morreu na Terra; (2) a Deusa
+revelar o "preço"/condição dela; (3) definir nome do clã e do bebê; então corta
+para o Capítulo 1 no Murim. Ficha parcialmente preenchida — completar Ações,
+habilidades do Ascendant, crenças e Destiny quando o personagem nascer.

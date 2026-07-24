@@ -12,9 +12,9 @@
 |-------|-------|
 | **Nome do cultivador** | _(a definir)_ |
 | **Sistema** | Blades of the Immortals v0.3.2 (Forged in the Dark) |
-| **Playbook** | _(a escolher: Ascendant, Assassin, Assured, Beast, Exorcist, Fanatic, Inheritor, Scholar ou Witch)_ |
-| **Conceito (uma frase)** | Um homem da Terra moderna que morreu e reencarna no mundo Murim, com as memórias da vida anterior intactas. |
-| **Herança / Origem** | Reencarnado — alma vinda da Terra (século XXI), renascida no Murim pela mão da Deusa da Reencarnação. |
+| **Playbook** | **The Ascendant** — "Destinado a subir" |
+| **Conceito (uma frase)** | Um homem da Terra moderna que morreu e reencarnou como o segundo filho de um clã nobre em declínio no Murim — um gênio marcial com memórias de outra vida. |
+| **Herança / Origem** | Reencarnado — alma vinda da Terra (século XXI). Renasceu **desde bebê** como **segundo filho de um clã nobre do Murim** (sem o fardo de herdeiro). |
 | **Aparência** | _(a definir)_ |
 | **Facção / Seita** | _(a definir na criação de cenário)_ |
 
@@ -92,11 +92,16 @@ _(a definir — a grande trajetória do personagem)_
 **Vida anterior (Terra):** _(a definir: quem ele era, como morreu)_
 
 **A Barganha:** Após a morte, sua alma foi levada ao Vazio Entre Vidas, diante
-da **Deusa da Reencarnação** — belíssima e provocante — que lhe ofereceu
-renascer no mundo Murim. Os termos da barganha (dons, origem do renascimento,
-eventuais preços) serão decididos no prólogo.
+da **Deusa da Reencarnação** — belíssima e provocante. Termos escolhidos:
+- **Alma:** The Ascendant ("destinado a subir").
+- **Renascimento:** desde bebê, **segundo filho de um clã nobre** (recusou ser o primogênito para fugir de responsabilidades).
+- **Rolagens de fortuna do renascimento (registradas em `rolagens_log.jsonl`):**
+  - Situação do clã: `pool 2d → [2,3] = RESULTADO RUIM` → **o clã nobre está em declínio/perigo**.
+  - Talento inato: `pool 2d → [6,1] = SUCESSO PLENO` → **corpo com raiz marcial excepcional (gênio)**.
+- **Pendência da barganha:** a Deusa ainda cobra a resposta da 1ª pergunta (quem era e como morreu na Terra) — e possivelmente um preço/condição dela.
 
-**Nova vida (Murim):** _(a definir em jogo)_
+**Nova vida (Murim):** Segundo filho de um clã nobre em declínio; nome do clã,
+da família e do bebê a definir no início do Capítulo 1.
 
 ## 12. LAÇOS, ALIADOS E INIMIGOS
 

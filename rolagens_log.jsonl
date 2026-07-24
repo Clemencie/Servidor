@@ -9,3 +9,5 @@
 {"quando_utc": "2026-07-24T06:01:46+00:00", "expressao": "pool 2d", "modo": "pool_fitd", "dados": [5, 2], "maior": 5, "critico": false, "resultado": "SUCESSO COM CONSEQUÊNCIAS"}
 {"quando_utc": "2026-07-24T06:01:46+00:00", "expressao": "pool 1d", "modo": "pool_fitd", "dados": [2], "maior": 2, "critico": false, "resultado": "RESULTADO RUIM"}
 {"quando_utc": "2026-07-24T06:01:46+00:00", "expressao": "2d6", "modo": "normal", "dados": [6, 2], "modificador": 0, "total": 8}
+{"quando_utc": "2026-07-24T06:12:14+00:00", "expressao": "pool 2d", "modo": "pool_fitd", "dados": [2, 3], "maior": 3, "critico": false, "resultado": "RESULTADO RUIM"}
+{"quando_utc": "2026-07-24T06:12:14+00:00", "expressao": "pool 2d", "modo": "pool_fitd", "dados": [6, 1], "maior": 6, "critico": false, "resultado": "SUCESSO PLENO"}
