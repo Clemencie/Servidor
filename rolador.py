@@ -18,6 +18,15 @@ Uso:
     python3 rolador.py 1d20 vantagem     -> rola 2d20, pega o MAIOR
     python3 rolador.py 1d20 desvantagem  -> rola 2d20, pega o MENOR
     python3 rolador.py 1d20 3d6+2 1d100  -> várias rolagens de uma vez
+
+Modo BLADES OF THE IMMORTALS (Forged in the Dark):
+    python3 rolador.py pool 3            -> rola 3d6, pega o MAIOR
+    python3 rolador.py pool 0            -> pool zero: rola 2d6, pega o MENOR
+
+    Interpretação automática (regras do BoTI):
+      dois+ 6 = SUCESSO CRÍTICO | 6 = SUCESSO PLENO
+      4-5 = SUCESSO COM CONSEQUÊNCIAS | 1-3 = RESULTADO RUIM
+      (pool 0 nunca dá crítico)
 """
 
 import json
@@ -70,7 +79,49 @@ def rolar(expressao: str, modo: str = "normal") -> dict:
     return registro
 
 
+def rolar_pool(qtd: int) -> dict:
+    """Rolagem estilo Forged in the Dark (Blades of the Immortals):
+    rola qtd d6 e pega o MAIOR. Pool 0 = rola 2d6 e pega o MENOR (sem crítico)."""
+    if not (0 <= qtd <= 20):
+        raise ValueError("Pool deve ser entre 0 e 20 dados.")
+
+    if qtd == 0:
+        dados = [secrets.randbelow(6) + 1, secrets.randbelow(6) + 1]
+        maior = min(dados)
+        critico = False
+    else:
+        dados = [secrets.randbelow(6) + 1 for _ in range(qtd)]
+        maior = max(dados)
+        critico = dados.count(6) >= 2
+
+    if critico:
+        resultado = "SUCESSO CRÍTICO"
+    elif maior == 6:
+        resultado = "SUCESSO PLENO"
+    elif maior >= 4:
+        resultado = "SUCESSO COM CONSEQUÊNCIAS"
+    else:
+        resultado = "RESULTADO RUIM"
+
+    registro = {
+        "quando_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "expressao": f"pool {qtd}d",
+        "modo": "pool_fitd",
+        "dados": dados,
+        "maior": maior,
+        "critico": critico,
+        "resultado": resultado,
+    }
+    with LOG.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(registro, ensure_ascii=False) + "\n")
+    return registro
+
+
 def formatar(r: dict) -> str:
+    if r["modo"] == "pool_fitd":
+        zero = " (pool 0: 2d6, pega o menor)" if r["expressao"].startswith("pool 0") else ""
+        return (f"{r['expressao']}{zero}: dados {r['dados']} -> maior {r['maior']} "
+                f"=> {r['resultado']}")
     mod = r["modificador"]
     smod = f" {'+' if mod >= 0 else '-'} {abs(mod)}" if mod else ""
     if r["modo"] in ("vantagem", "desvantagem"):
@@ -85,6 +136,15 @@ def main(argv):
         return 1
 
     args = argv[1:]
+
+    if args[0].lower() == "pool":
+        for n in (args[1:] or ["1"]):
+            try:
+                print(formatar(rolar_pool(int(n))))
+            except ValueError as e:
+                print(f"ERRO: {e}")
+        return 0
+
     modo = "normal"
     if args and args[-1].lower() in ("vantagem", "desvantagem"):
         modo = args[-1].lower()

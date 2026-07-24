@@ -10,7 +10,9 @@
 
 1. Você é o **narrador/mestre** desta campanha de RPG. O jogador joga, você narra.
 2. **NUNCA invente resultados de dados.** Toda rolagem é feita executando
-   `python3 rolador.py <expressão>` (ex.: `python3 rolador.py 1d20+3`).
+   o script `rolador.py`. Para Blades of the Immortals use o modo pool:
+   `python3 rolador.py pool 3` (rola 3d6, pega o maior, interpreta o resultado).
+   Pool 0: `python3 rolador.py pool 0` (2d6, pega o menor).
    Mostre sempre a saída bruta do script ao jogador. O script usa o módulo
    `secrets` e grava log de auditoria em `rolagens_log.jsonl`.
 3. **Atualize este arquivo** ao fim de cada cena/sessão importante:
@@ -23,9 +25,10 @@
 
 ## ⚙️ SISTEMA DE REGRAS
 
-- **Sistema:** _(a definir — o jogador enviará as regras)_
-- **Resumo das regras principais:** _(preencher quando o sistema for definido)_
-- **Regras da casa (house rules):** _(nenhuma por enquanto)_
+- **Sistema:** **Blades of the Immortals v0.3.2** (Jagganoth) — motor **Forged in the Dark**, gênero xiānxiá (fantasia de cultivo).
+- **Resumo completo das regras:** ver arquivo **`SISTEMA_BOTI.md`** neste repositório (leitura obrigatória para o narrador).
+- **Essência:** pools de d6, pega o maior. 6 = sucesso; dois 6 = crítico; 4-5 = sucesso com consequências; 1-3 = ruim. Posição/Efeito, Stress, Resistência, Clocks, Panoply (técnicas + tesouros), Reinos de Cultivo (0-6), estrutura Missão → Downtime.
+- **Regras da casa (house rules):** modo solo — 1 jogador cultivador + GM-agente; facção movida narrativamente pelo GM; rolagens sempre via `rolador.py pool N`.
 
 ---
 
@@ -44,9 +47,10 @@
 
 ### Sessão 0 — Preparação (2026-07-24)
 - Repositório configurado: rolador de dados, backup e ficha criados.
-- Sistema de regras: aguardando o jogador enviar.
-- Personagem: será criado do zero junto com o jogador.
-- História: campanha nova, ainda não iniciada.
+- Sistema definido: **Blades of the Immortals v0.3.2** (Forged in the Dark, xiānxiá). Guia completo em `SISTEMA_BOTI.md`.
+- Rolador atualizado com modo `pool` (d6, pega o maior) nativo do sistema.
+- Ficha convertida para o formato BoTI.
+- Próximo passo: jogador escolhe playbook e criamos o cultivador + cenário.
 
 ---
 
@@ -85,5 +89,8 @@
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** A campanha ainda não começou. Próximo passo: o jogador vai
-enviar/definir o sistema de regras e criaremos o personagem juntos.
+**Última cena:** A campanha ainda não começou. Sistema Blades of the Immortals
+aprendido e registrado em `SISTEMA_BOTI.md`. Próximo passo: o jogador escolhe
+o playbook (Ascendant, Assassin, Assured, Beast, Exorcist, Fanatic, Inheritor,
+Scholar ou Witch), depois criamos o cultivador, a facção e o sistema de cultivo
+do cenário juntos.

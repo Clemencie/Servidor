@@ -1,7 +1,7 @@
-# 🎭 FICHA DE PERSONAGEM — REGISTRO PERMANENTE
+# 🎭 FICHA DE PERSONAGEM — BLADES OF THE IMMORTALS
 
 > **Regra de ouro:** esta ficha é a fonte da verdade. Qualquer mudança
-> (dano, XP, item ganho/perdido, dinheiro, condição) deve ser registrada aqui
+> (stress, condições, XP, panoply, reino de cultivo) deve ser registrada aqui
 > imediatamente, com data, para que nada se perca entre conversas.
 
 ---
@@ -10,69 +10,92 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Nome do personagem** | _(a definir)_ |
-| **Jogador** | _(a definir)_ |
-| **Sistema** | _(a definir)_ |
+| **Nome do cultivador** | _(a definir)_ |
+| **Sistema** | Blades of the Immortals v0.3.2 (Forged in the Dark) |
+| **Playbook** | _(a escolher: Ascendant, Assassin, Assured, Beast, Exorcist, Fanatic, Inheritor, Scholar ou Witch)_ |
 | **Conceito (uma frase)** | _(a definir)_ |
-| **Raça / Origem** | _(a definir)_ |
-| **Classe / Ocupação** | _(a definir)_ |
-| **Nível / XP** | _(a definir)_ |
-| **Antecedente** | _(a definir)_ |
-| **Idade / Gênero** | _(a definir)_ |
-| **Alinhamento / Personalidade** | _(a definir)_ |
+| **Herança / Origem** | _(a definir)_ |
+| **Aparência** | _(a definir)_ |
+| **Facção / Seita** | _(a definir na criação de cenário)_ |
 
-## 2. APARÊNCIA
+## 2. REINO DE CULTIVO
 
-_(descrição física detalhada — a definir)_
+| Campo | Valor |
+|-------|-------|
+| **Reino atual** | 0 — _(nome a definir pelo sistema de cultivo da mesa)_ |
+| **Camada / Reino menor** | — |
+| **Método de Cultivo principal** | _(a definir — faz parte do Panoply)_ |
+| **Progresso de Breakthrough** | ☐☐☐☐☐☐☐☐ (clock 8) |
 
-## 3. ATRIBUTOS
+## 3. AÇÕES (pool de dados d6)
 
-| Atributo | Valor | Modificador |
-|----------|-------|-------------|
-| —        | —     | —           |
+| Ação | Pontos | Ação | Pontos | Ação | Pontos |
+|------|:---:|------|:---:|------|:---:|
+| Attune | 0 | Force | 0 | Refine | 0 |
+| Blitz | 0 | Hunt | 0 | Study | 0 |
+| Endure | 0 | Mask | 0 | Sway | 0 |
 
-> _Preencher conforme o sistema escolhido (ex.: FOR/DES/CON/INT/SAB/CAR no D&D)._
+> _Distribuição inicial do playbook + pontos de criação: preencher na criação._
 
-## 4. RECURSOS VITAIS
+## 4. ATRIBUTOS (para Rolagens de Resistência)
 
-| Recurso | Atual | Máximo |
-|---------|-------|--------|
-| Pontos de Vida | — | — |
-| _(outros: mana, sanidade, esforço...)_ | — | — |
+| Atributo | Valor |
+|----------|:---:|
+| _(conforme playbook)_ | — |
 
-**Condições ativas:** nenhuma.
+## 5. STRESS, CONDIÇÕES E CICATRIZES
 
-## 5. PERÍCIAS / HABILIDADES
+- **Stress:** 0 / 9 → `☐☐☐☐☐☐☐☐☐`
+- **Condition Track:** livre
+- **Recovery Clock:** ☐☐☐☐☐☐☐☐
+- **Scars (cicatrizes permanentes):** nenhuma
 
-| Perícia/Habilidade | Bônus/Nível | Observações |
-|--------------------|-------------|-------------|
-| —                  | —           | —           |
+## 6. CRENÇAS & CONNECTION CLOCKS
 
-## 6. TALENTOS, PODERES E MAGIAS
+| Crença / Conexão | Clock | Notas |
+|------------------|-------|-------|
+| _(a definir)_ | ☐☐☐☐ | — |
+
+## 7. DESTINY (DESTINO)
+
+_(a definir — a grande trajetória do personagem)_
+
+## 8. HABILIDADES (ABILITIES do playbook)
+
+- _(a definir na criação)_
+
+## 9. PANOPLY — TÉCNICAS E TESOUROS
+
+### Técnicas
+| Técnica | Tipo | Qualidade | Realm | Condição | Edges / Flaws |
+|---------|------|-----------|-------|----------|---------------|
+| —       | —    | —         | —     | OK       | —             |
+
+### Tesouros
+| Tesouro | Tipo | Qualidade | Realm | Condição | Edges / Flaws |
+|---------|------|-----------|-------|----------|---------------|
+| —       | —    | —         | —     | OK       | —             |
+
+### Consumíveis
+| Item | Usos restantes | Notas |
+|------|:---:|-------|
+| —    | —   | —     |
+
+## 10. XP E AVANÇO
+
+- **XP de personagem:** 0
+- **Gatilhos de XP do playbook:** _(anotar ao escolher playbook)_
+- **XP da facção:** 0 | **Tier da facção:** 0
+
+## 11. HISTÓRIA / BACKGROUND
+
+_(história completa do cultivador — a definir)_
+
+## 12. LAÇOS, ALIADOS E INIMIGOS
 
 - _(nenhum ainda)_
 
-## 7. EQUIPAMENTO E INVENTÁRIO
-
-| Item | Qtd | Detalhes |
-|------|-----|----------|
-| —    | —   | —        |
-
-**Dinheiro:** —
-
-## 8. HISTÓRIA / BACKGROUND
-
-_(história completa do personagem — a definir)_
-
-## 9. LAÇOS, ALIADOS E INIMIGOS
-
-- _(nenhum ainda)_
-
-## 10. OBJETIVOS PESSOAIS
-
-- _(nenhum ainda)_
-
-## 11. ANOTAÇÕES LIVRES
+## 13. ANOTAÇÕES LIVRES
 
 - _(vazio)_
 
@@ -82,4 +105,5 @@ _(história completa do personagem — a definir)_
 
 | Data | Alteração |
 |------|-----------|
-| 2026-07-24 | Ficha criada (modelo vazio, aguardando criação do personagem). |
+| 2026-07-24 | Ficha criada (modelo vazio). |
+| 2026-07-24 | Ficha convertida para o sistema Blades of the Immortals; aguardando criação do personagem. |

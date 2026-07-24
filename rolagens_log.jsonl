@@ -3,3 +3,9 @@
 {"quando_utc": "2026-07-24T05:41:49+00:00", "expressao": "1d100", "modo": "normal", "dados": [86], "modificador": 0, "total": 86}
 {"quando_utc": "2026-07-24T05:41:49+00:00", "expressao": "1d20", "modo": "vantagem", "rolagens": [20, 4], "escolhido": 20, "modificador": 0, "total": 20}
 {"quando_utc": "2026-07-24T05:41:49+00:00", "expressao": "1d20", "modo": "desvantagem", "rolagens": [19, 9], "escolhido": 9, "modificador": 0, "total": 9}
+{"quando_utc": "2026-07-24T06:01:46+00:00", "expressao": "pool 3d", "modo": "pool_fitd", "dados": [2, 1, 4], "maior": 4, "critico": false, "resultado": "SUCESSO COM CONSEQUÊNCIAS"}
+{"quando_utc": "2026-07-24T06:01:46+00:00", "expressao": "pool 0d", "modo": "pool_fitd", "dados": [6, 2], "maior": 2, "critico": false, "resultado": "RESULTADO RUIM"}
+{"quando_utc": "2026-07-24T06:01:46+00:00", "expressao": "pool 4d", "modo": "pool_fitd", "dados": [5, 4, 6, 5], "maior": 6, "critico": false, "resultado": "SUCESSO PLENO"}
+{"quando_utc": "2026-07-24T06:01:46+00:00", "expressao": "pool 2d", "modo": "pool_fitd", "dados": [5, 2], "maior": 5, "critico": false, "resultado": "SUCESSO COM CONSEQUÊNCIAS"}
+{"quando_utc": "2026-07-24T06:01:46+00:00", "expressao": "pool 1d", "modo": "pool_fitd", "dados": [2], "maior": 2, "critico": false, "resultado": "RESULTADO RUIM"}
+{"quando_utc": "2026-07-24T06:01:46+00:00", "expressao": "2d6", "modo": "normal", "dados": [6, 2], "modificador": 0, "total": 8}
