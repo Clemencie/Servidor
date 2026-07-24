@@ -168,6 +168,12 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - **Decisão de Mu-Jin:** no dia da visita, desobedeceu a ordem do pai ("ao meu lado") e **ficou deitado no quarto, descansando**, ignorando a cerimônia.
 - **Fortuna (reação do Senhor Sectário, 2d): [1,3] = RESULTADO RUIM** — o Senhor Sectário recebeu o pagamento no pátio SEM descer da liteira, e diante da ausência do menino tomou como afronta-convite: **mandou a cerimônia inteira esperar e foi ELE, pessoalmente, até o quarto de Mu-Jin** — entrou sozinho, sem anúncio, atravessando o complexo (ninguém ousou impedir). A cena atual: o Senhor Sectário do Punho de Ferro parado na porta do quarto do menino de 7 anos que ficou na cama.
 - Situação de máximo perigo/intimidade: sem testemunhas, sem pai, sem protocolo.
+- **Mu-Jin continuou deitado**, ignorando a pergunta do Senhor Sectário. **Sway 1d (desesperada): [2] = RESULTADO RUIM.**
+- **Consequência:** o Senhor Sectário parou de achar graça. Leu o menino em um olhar (qi da 3ª camada "transbordando sem escada" = método incompleto = clã falido vendeu o pavilhão) e golpeou onde dói: revelou que SABE que o cultivo de Mu-Jin está travado, que a continuação do Sopro da Andorinha Celeste existe... e que ELE sabe onde está. Deixou na mesinha um convite lacrado + uma página avulsa GENUÍNA do volume perdido (prova), com o recado: *"Quando o odre estourar — e vai — o Punho de Ferro tem a escada. Torneio de Admissão da seita, em um ano. Venha por vontade própria... é sempre mais elegante."* Saiu sem esperar resposta.
+- Ganho de informação (amargo): a continuação do método EXISTE e está com/rastreável pelo Punho de Ferro. Novo dilema central: o teto do cultivo agora tem um preço com nome de seita.
+- Novo item: **Página do volume perdido do Sopro da Andorinha Celeste** (autêntica; fragmento da 4ª camada — insuficiente sozinha, mas prova e amostra).
+- Clock novo: **"O Odre Cheio" ☐☐☐☐☐☐ (6)** — pressão do qi sem escada; avança a cada mês sem solução / uso excessivo de push.
+- Clock novo: **"Torneio de Admissão do Punho de Ferro" ☐☐☐☐☐☐☐☐ (8)** — 1 ano.
 
 ---
 
@@ -213,6 +219,8 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 | **A Visita do Senhor Sectário** | Clock ◼◼◼◼◼◼◼◼ (8/8 COMPLETO) | O DIA CHEGOU — comitiva do Senhor Sectário às portas |
 | **Encontrar a continuação do método de cultivo** | Aberto | Manual do Sopro da Andorinha incompleto; cultivo travado na 3ª camada |
 | **A visita à casa Seo** | Pendente | Condição do avô Seo pelo empréstimo: "quero conhecer o neto" |
+| **O Odre Cheio** | Clock ☐☐☐☐☐☐ (0/6) | Qi da 3ª camada pressionando meridianos sem escada; avança a cada mês sem solução ou abuso de push |
+| **Torneio de Admissão do Punho de Ferro** | Clock ☐☐☐☐☐☐☐☐ (0/8) | Em 1 ano; convite lacrado deixado pelo Senhor Sectário; "a escada" do cultivo como isca |
 | Honrar a condição da Deusa ("Viva de verdade") | Contínuo | Crença central do personagem |
 
 ---
@@ -228,9 +236,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Quarto de Mu-Jin, dia da visita. Mu-Jin ficou deitado
-descansando em vez de comparecer à cerimônia (desobedecendo o pai). Fortuna
-[1,3]: o Senhor Sectário leu a ausência como afronta interessante — recebeu o
-pagamento sem descer da liteira e FOI PESSOALMENTE ao quarto, sozinho, sem
-anúncio. Está parado na porta agora. Sem testemunhas. O jogador decide como
-Mu-Jin recebe o homem mais perigoso que já esteve tão perto dele.
+**Última cena:** Quarto de Mu-Jin, fim da visita. Mu-Jin permaneceu deitado
+ignorando o Senhor Sectário (Sway [2] = ruim). O homem leu tudo: cultivo travado,
+método incompleto, odre cheio. Deixou convite lacrado (Torneio de Admissão, 1 ano)
++ página autêntica do volume perdido como prova/isca, e saiu. Clocks novos:
+"O Odre Cheio" 0/6 e "Torneio" 0/8. A família ainda não sabe o que aconteceu no
+quarto. O jogador decide o próximo passo (contar à família? esconder o convite?
+buscar a continuação do método por outra via? etc.).

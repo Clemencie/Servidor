@@ -85,7 +85,8 @@ e a decidir se carrega o Clã Yeon nas costas ou voa para longe dele.
 ### Consumíveis
 | Item | Usos restantes | Notas |
 |------|:---:|-------|
-| —    | —   | —     |
+| **Página do volume perdido do Sopro da Andorinha Celeste** | — (relíquia/prova) | Deixada pelo Senhor Sectário; fragmento AUTÊNTICO da 4ª camada — insuficiente sozinho, mas prova que a continuação existe e está ao alcance do Punho de Ferro |
+| **Convite lacrado — Torneio de Admissão do Punho de Ferro** | 1 | Em 1 ano; admissão como candidato a discípulo direto |
 
 ## 10. XP E AVANÇO
 
