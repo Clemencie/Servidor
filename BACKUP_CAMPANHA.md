@@ -112,6 +112,19 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 
 ---
 
+## 🏮 VIDA COTIDIANA NO CLÃ YEON (retrato aos 7 anos)
+
+- **Mansão:** complexo no alto de colina na Província de Hanam; muros brancos gastos, telhados azuis com andorinhas reais; metade dos pavilhões fechada (clã reduzido a ~80 pessoas, já foram 300).
+- **Pai (Yeon Baek-San):** orgulho incontido + medo silencioso de que o talento do filho atraia predadores; demonstra afeto corrigindo a postura da espada ("ajuste o cotovelo").
+- **Mãe (Seo Hwa-Ryun):** administra as finanças de fato; sofre preconceito dos anciões por ser de família mercante; afeto prático (chá, pratos favoritos); é a ÚNICA que desconfia sutilmente de que Mu-Jin "tem gente demais atrás dos olhos" — nunca perguntou.
+- **Irmão (Mu-Hyuk, 13):** herdeiro; talento mediano, esforço brutal; zero inveja — exibe o irmão com orgulho, invade o quarto dele à noite, chama-o de "Jin-ah". Quem mais o ama e menos desconfia.
+- **Anciões:** tratam Mu-Jin como relíquia/bilhete de salvação (pressão não-dita crescente — ironia do pedido de "sem responsabilidades").
+- **Criados:** o adoram; fofocam que ele "fala palavras estranhas dormindo" (português).
+- **Velho Gok:** cozinheiro surdo de uma orelha; único que o trata como criança normal; rumores de um passado perigoso.
+- **Rotina:** cultivo de manhã (sozinho), espada à tarde (com o pai quando possível), "hora livre" no fim da tarde, cultivo secreto à noite; visitas ocasionais da voz da Deusa no limiar do sono.
+
+---
+
 ## 👥 NPCs CONHECIDOS
 
 | Nome | Quem é | Relação com o personagem | Status |
