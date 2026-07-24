@@ -181,6 +181,8 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - **Mu-Jin ASSINOU o contrato** (nome infantil ao lado do punho fechado do Senhor Sectário) — compromisso selado: comparecerá ao Torneio de Admissão em 1 ano (páginas da 4ª camada garantidas por comparecer; se vencer, volume completo + discípulo direto + cláusula de saída em 3 anos).
 - **Fortuna (reação da família, 2d): [3,2] = RESULTADO RUIM** — a família entrou NO EXATO MOMENTO da assinatura: o pai viu o filho de 7 anos assinando contrato com a seita que veio comprá-lo, por conta própria, sem consultar ninguém — a ferida do "ele se vende sozinho" reabriu 10x pior. Baek-San não gritou: ficou em silêncio mortal, pegou o contrato, leu linha por linha na frente de todos... e saiu do quarto sem uma palavra, levando o contrato. A mãe ficou dividida (viu o VALOR do adendo — as páginas garantidas — mas o método foi indefensável). Mu-Hyuk não entendeu nada, só que "Jin-ah vai embora em um ano?" — e saiu correndo com os olhos cheios.
 - Estado: contrato assinado e VÁLIDO (nas mãos do pai agora); família em crise; a casa em silêncio.
+- **Tentativa de fuga noturna para Heukun:** Mu-Jin tentou escapar na madrugada (mochila, espada de treino, página escondida) pela cozinha. **Mask 0d: [6,3]→3 = RUIM** — flagrado pelo **Velho Gok**, que estava acordado no escuro; Gok não deu alarme, revelou faro de veterano ("dezenove meninos saíram por portas assim; não disse quantos voltaram") e apontou o problema real: **o pai está insone no meio do pátio**, sozinho com o contrato aberto e vinho intocado, exatamente na rota da fuga (fortuna da estrada [1,2] — nem chegou a ser usada). Deusa aconselhou: é noite de conversar com o pai, não de lobos.
+- Situação: Mu-Jin na porta da cozinha; pai entre ele e o portão; Gok observando e descascando pera.
 
 ---
 
@@ -243,11 +245,8 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Quarto de Mu-Jin, noite do 30º dia. Mu-Jin assinou o contrato —
-e a família flagrou a assinatura (fortuna [3,2]): o pai leu o contrato em
-silêncio mortal e saiu levando-o, sem uma palavra (ferida reaberta:
-"meu filho se vende sozinho"); a mãe dividida entre o valor do adendo e o
-método indefensável; Mu-Hyuk saiu correndo em lágrimas ("Jin-ah vai embora?").
-O contrato é válido e está com o pai. A casa está em silêncio de luto.
-O jogador decide como Mu-Jin lida com os destroços familiares — e com o ano
-de preparação até o Torneio.
+**Última cena:** Madrugada, porta da cozinha. Fuga para Heukun frustrada (Mask
+0d=3): Velho Gok flagrou (sem alarme; revelou faro de veterano) e apontou o
+obstáculo — o PAI está insone no meio do pátio com o contrato aberto, na rota
+exata da fuga. Mu-Jin decide: atravessar e conversar com o pai / tentar outra
+rota / voltar / falar com Gok. Clocks: Torneio 0/8, Odre 0/6. Stress 2/9.
