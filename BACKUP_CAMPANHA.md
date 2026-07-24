@@ -63,13 +63,24 @@
 - Ficha convertida para o formato BoTI.
 - Próximo passo: jogador escolhe playbook e criamos o cultivador + cenário.
 
+### Sessão 1 — Prólogo: O Vazio Entre Vidas (2026-07-24)
+- O jogador (vida passada: solitária, morreu de **depressão**, sonhava viver em outro mundo) enfrentou as 3 perguntas da Deusa da Reencarnação.
+- Escolhas: playbook **Ascendant**; renascer **desde bebê**; **segundo filho de clã nobre** (sem fardo de herdeiro).
+- Fortunas roladas: clã em **declínio** (2d=ruim); talento inato **gênio de uma geração** (2d=6); presságios do nascimento **auspiciosos** (2d=6).
+- **Condição da Deusa** (preço do talento): *"Viva. De verdade."* — se ele desistir da vida como na anterior, a raiz marcial murcha. Ela o observa (Connection Clock).
+- Nascimento: **Clã Yeon** (Clã da Andorinha), casa nobre de espadachins em declínio. Pai: **Yeon Baek-San** (patriarca). Mãe: **Dama Seo Hwa-Ryun**. Irmão: **Yeon Mu-Hyuk** (herdeiro, +6 anos). Nome dado pelos pais: **YEON MU-JIN (연무진)**.
+- Presságio público: revoada de andorinhas cobriu a lua no nascimento — a província comenta que "nasceu uma estrela no Clã Yeon" (fama + atenção indesejada).
+
 ---
 
 ## 👥 NPCs CONHECIDOS
 
 | Nome | Quem é | Relação com o personagem | Status |
 |------|--------|--------------------------|--------|
-| **A Deusa da Reencarnação** | Divindade belíssima e provocante que administra o ciclo de renascimentos; conduz a barganha do renascimento do PC | Primeira "conhecida" entre vidas; potencial patrona/observadora recorrente | Ativa — conduzindo a reencarnação |
+| **A Deusa da Reencarnação** | Divindade belíssima e provocante; selou a barganha do renascimento | Patrona secreta; condição "Viva de verdade"; observa-o | Ativa (invisível ao mundo) |
+| **Yeon Baek-San** | Patriarca do Clã Yeon, espadachim orgulhoso | Pai | Vivo |
+| **Dama Seo Hwa-Ryun** | De família mercante; prática e afetuosa | Mãe | Viva |
+| **Yeon Mu-Hyuk** | Herdeiro do clã; talento mediano, esforço enorme | Irmão mais velho (+6 anos) | Vivo |
 
 ---
 
@@ -100,11 +111,9 @@
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Prólogo em andamento, no Vazio Entre Vidas. O jogador já decidiu:
-**playbook Ascendant**, renascer **desde bebê** como **segundo filho de clã nobre**
-(sem responsabilidade de herdeiro). Rolagens de fortuna feitas: clã em **declínio**
-(pool 2d = ruim), talento inato **excepcional** (pool 2d = 6, gênio marcial).
-Falta: (1) o jogador responder quem era e como morreu na Terra; (2) a Deusa
-revelar o "preço"/condição dela; (3) definir nome do clã e do bebê; então corta
-para o Capítulo 1 no Murim. Ficha parcialmente preenchida — completar Ações,
-habilidades do Ascendant, crenças e Destiny quando o personagem nascer.
+**Última cena:** Prólogo CONCLUÍDO. Yeon Mu-Jin nasceu no Clã Yeon sob presságios
+auspiciosos. Próxima cena: **Capítulo 1 — infância no Clã Yeon** (sugerido: salto
+temporal para ~5-7 anos, primeiras memórias, teste da raiz marcial diante do clã,
+primeiros sinais do declínio da casa). Pendências mecânicas: distribuir pontos de
+**Ações** e escolher **habilidade inicial do Ascendant** — pode ser feito no
+momento do primeiro teste de talento, em cena.

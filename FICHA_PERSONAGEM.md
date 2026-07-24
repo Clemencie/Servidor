@@ -10,7 +10,7 @@
 
 | Campo | Valor |
 |-------|-------|
-| **Nome do cultivador** | _(a definir)_ |
+| **Nome do cultivador** | **Yeon Mu-Jin (연무진)** — segundo filho do Clã Yeon |
 | **Sistema** | Blades of the Immortals v0.3.2 (Forged in the Dark) |
 | **Playbook** | **The Ascendant** — "Destinado a subir" |
 | **Conceito (uma frase)** | Um homem da Terra moderna que morreu e reencarnou como o segundo filho de um clã nobre em declínio no Murim — um gênio marcial com memórias de outra vida. |
@@ -54,11 +54,15 @@
 
 | Crença / Conexão | Clock | Notas |
 |------------------|-------|-------|
-| _(a definir)_ | ☐☐☐☐ | — |
+| **"Desta vez, eu vou VIVER de verdade."** | — | Crença central (condição da Deusa: se desistir da vida, o talento murcha) |
+| **Conexão: A Deusa da Reencarnação** | ☐☐☐☐☐☐ | Ela o observa; o laço cresce/decresce conforme ele honra (ou não) a barganha |
+| **Conexão: Família Yeon** | ☐☐☐☐ | Pais e irmão mais velho; o clã em declínio |
 
 ## 7. DESTINY (DESTINO)
 
-_(a definir — a grande trajetória do personagem)_
+**"A Andorinha que Ergue o Céu"** — o segundo filho sem responsabilidades que,
+querendo apenas viver livre, está destinado a subir mais alto que todos —
+e a decidir se carrega o Clã Yeon nas costas ou voa para longe dele.
 
 ## 8. HABILIDADES (ABILITIES do playbook)
 
@@ -89,23 +93,37 @@ _(a definir — a grande trajetória do personagem)_
 
 ## 11. HISTÓRIA / BACKGROUND
 
-**Vida anterior (Terra):** _(a definir: quem ele era, como morreu)_
+**Vida anterior (Terra):** Uma vida cinzenta e solitária. Ele lutou por anos
+contra a **depressão**, sonhando em viver em outro mundo — e acabou morrendo
+por causa dela. Diante da Deusa, admitiu a verdade sem enfeitar. A Deusa não
+zombou: pela primeira vez, ela o olhou com gentileza.
 
 **A Barganha:** Após a morte, sua alma foi levada ao Vazio Entre Vidas, diante
-da **Deusa da Reencarnação** — belíssima e provocante. Termos escolhidos:
+da **Deusa da Reencarnação** — belíssima e provocante. Termos selados:
 - **Alma:** The Ascendant ("destinado a subir").
 - **Renascimento:** desde bebê, **segundo filho de um clã nobre** (recusou ser o primogênito para fugir de responsabilidades).
+- **A CONDIÇÃO DA DEUSA (preço do talento):** *"Viva. De verdade."* — O talento de gênio permanece enquanto ele **quiser viver**: buscar alegrias, laços e desejos próprios. Se um dia ele desistir da vida de novo — se voltar a viver como um morto — a raiz marcial **murcha**. A Deusa o observa (Connection Clock com a Deusa na ficha).
 - **Rolagens de fortuna do renascimento (registradas em `rolagens_log.jsonl`):**
   - Situação do clã: `pool 2d → [2,3] = RESULTADO RUIM` → **o clã nobre está em declínio/perigo**.
-  - Talento inato: `pool 2d → [6,1] = SUCESSO PLENO` → **corpo com raiz marcial excepcional (gênio)**.
-- **Pendência da barganha:** a Deusa ainda cobra a resposta da 1ª pergunta (quem era e como morreu na Terra) — e possivelmente um preço/condição dela.
+  - Talento inato: `pool 2d → [6,1] = SUCESSO PLENO` → **corpo com raiz marcial excepcional (gênio de uma geração)**.
+  - Presságios no nascimento: `pool 2d → [6,3] = SUCESSO PLENO` → **nascimento auspicioso** (ver abaixo).
 
-**Nova vida (Murim):** Segundo filho de um clã nobre em declínio; nome do clã,
-da família e do bebê a definir no início do Capítulo 1.
+**Nova vida (Murim):** Nasceu no **Clã Yeon (연가/燕家)** — "Clã da Andorinha" —
+casa nobre de espadachins outrora célebre, hoje em declínio: cofres vazios,
+territórios perdidos e rivais circulando. Filho de **Yeon Baek-San** (patriarca)
+e **Dama Seo Hwa-Ryun**; irmão mais novo de **Yeon Mu-Hyuk** (herdeiro, 6 anos
+mais velho). Seus pais o nomearam **Yeon Mu-Jin (연무진)** — "poeira marcial que
+dança no vento". Na noite do seu nascimento, uma revoada de andorinhas cobriu a
+lua sobre a mansão — presságio auspicioso que correu a província: *"nasceu uma
+estrela no Clã Yeon"*. Boa fama... e atenção indesejada.
 
 ## 12. LAÇOS, ALIADOS E INIMIGOS
 
-- _(nenhum ainda)_
+- **A Deusa da Reencarnação** — patrona secreta e observadora; dona da condição que sustenta seu talento.
+- **Yeon Baek-San** — pai; patriarca do Clã Yeon; espadachim orgulhoso lutando para segurar o clã.
+- **Dama Seo Hwa-Ryun** — mãe; de família mercante, prática e afetuosa; o casamento dela salvou as finanças do clã por um tempo.
+- **Yeon Mu-Hyuk** — irmão mais velho (6 anos); herdeiro do clã; talento mediano, esforço imenso.
+- **Inimigos:** ainda ocultos — os abutres que circulam um clã nobre em declínio (a definir em jogo).
 
 ## 13. ANOTAÇÕES LIVRES
 
@@ -119,3 +137,4 @@ da família e do bebê a definir no início do Capítulo 1.
 |------|-----------|
 | 2026-07-24 | Ficha criada (modelo vazio). |
 | 2026-07-24 | Ficha convertida para o sistema Blades of the Immortals; aguardando criação do personagem. |
+| 2026-07-24 | Prólogo concluído: nome (Yeon Mu-Jin), família (Clã Yeon), vida passada (morte por depressão), condição da Deusa ("Viva de verdade"), crenças, Destiny e laços registrados. |
