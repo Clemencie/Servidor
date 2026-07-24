@@ -75,7 +75,9 @@
 - Salto temporal: Mu-Jin aos **6 anos**. Cerimônia pública no Salão Ancestral: teste da raiz marcial com o **Orbe de Jade da Andorinha** (relíquia que mede talento).
 - Ações iniciais distribuídas na ficha (Attune 2, Blitz 1, Endure 1, Force 1, Study 1, Sway 1) — ajustáveis até o fim do Cap. 1.
 - **Action Roll (Attune 2d): [5,4] = SUCESSO COM CONSEQUÊNCIAS** — o orbe revelou talento lendário (brilho jamais visto em gerações), MAS o qi de Mu-Jin foi forte demais: **o Orbe de Jade rachou** diante do clã inteiro e de convidados — entre eles **Dokgo Hwan**, emissário da **Seita do Punho de Ferro** (credora do clã), que testemunhou tudo.
-- Aguardando reação do jogador à consequência.
+- Mu-Jin **aceitou a consequência** e usou a mente adulta: ajoelhou-se e declarou que "o orbe não suportou sua devoção ao clã".
+- **Action Roll (Sway 1d): [5] = SUCESSO COM CONSEQUÊNCIAS** — O clã comprou a narrativa: anciões emocionados, o pai proclamou o dia como "o dia em que o Céu abençoou o Clã Yeon"; a rachadura virou lenda ("a marca da andorinha"). CONSEQUÊNCIA: Dokgo Hwan não se comoveu — viu a *atuação perfeita demais* de uma criança de 6 anos. Antes de partir, sussurrou ao patriarca uma proposta: **a Seita do Punho de Ferro oferece "perdoar parte da dívida" em troca de levar Mu-Jin como discípulo externo**. O pai recusou na hora — mas a dívida continua, e a seita agora tem um alvo.
+- Gancho criado: a Seita do Punho de Ferro quer Mu-Jin; prazo da dívida vence em 1 ano (clock de campanha 6: ☐☐☐☐☐☐).
 
 ---
 
@@ -103,7 +105,8 @@
 
 | Objetivo | Status | Observações |
 |----------|--------|-------------|
-| —        | —      | —           |
+| **A Dívida do Clã Yeon** (Seita do Punho de Ferro) | Clock ☐☐☐☐☐☐ (6) | Prazo ~1 ano em jogo; a seita quer Mu-Jin como "pagamento" |
+| Honrar a condição da Deusa ("Viva de verdade") | Contínuo | Crença central do personagem |
 
 ---
 
@@ -118,11 +121,11 @@
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Capítulo 1, Salão Ancestral do Clã Yeon, Mu-Jin aos 6 anos.
-O Teste da Raiz Marcial acabou de acontecer: Attune 2d = [5,4], sucesso com
-consequências. O Orbe de Jade da Andorinha brilhou como nunca (talento lendário
-confirmado publicamente) e **RACHOU** — relíquia de gerações danificada diante
-de todos, incluindo Dokgo Hwan, emissário da seita credora. O salão está em
-silêncio de choque. O jogador decide agora como Mu-Jin reage (aceitar a
-consequência ou tentar Rolagem de Resistência — custaria Stress; também pode
-reagir socialmente à cena).
+**Última cena:** Fim da cerimônia do Teste. Mu-Jin (6 anos) virou lenda local:
+talento nunca registrado + "marca da andorinha" no orbe. Dokgo Hwan partiu após
+ter sua proposta (levar Mu-Jin como discípulo em troca de abatimento da dívida)
+recusada pelo patriarca — mas deixou claro que a Seita do Punho de Ferro
+voltará quando a dívida vencer (~1 ano; clock 6 criado). Dokgo Hwan desconfia
+que Mu-Jin não é uma criança normal. Próximos passos possíveis: cenas de
+treinamento (definir habilidade inicial do Ascendant + Método de Cultivo no
+Panoply), vida familiar, ou salto temporal até a crise da dívida.
