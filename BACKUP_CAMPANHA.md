@@ -109,6 +109,7 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
   - **Fortuna/dinheiro da dívida (1d): [2] = RESULTADO RUIM** — ano cruel: colheitas taxadas, caravana da família materna saqueada, território arrendado perdido. **O clã NÃO tem o dinheiro.** Clock da dívida: ◼◼◼◼◼☐ (5/6).
 - Situação atual: **Dokgo Hwan retornou** com comitiva armada da Seita do Punho de Ferro aos portões do Clã Yeon. Conselho reunido na véspera; mãe escreveu cartas à família mercante; Mu-Hyuk (13) quer lutar.
 - Aguardando: como Mu-Jin age no dia da cobrança.
+- **Declaração do jogador (postura de vida):** Mu-Jin passa os dias **treinando e vivendo bem, como gostaria de ter vivido na vida passada** — comendo bem, aproveitando a família, treinando por prazer e não por fuga. Isso expressa a crença central ("Viva de verdade") → **+1 XP** concedido (gatilho decidido pelo jogador, regra BoTI). A Deusa está satisfeita; a condição dela segue plenamente honrada — o talento continua florescendo.
 
 ---
 

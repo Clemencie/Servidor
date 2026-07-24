@@ -89,7 +89,7 @@ e a decidir se carrega o Clã Yeon nas costas ou voa para longe dele.
 
 ## 10. XP E AVANÇO
 
-- **XP de personagem:** 0
+- **XP de personagem:** 1 _(2026-07-24: crença central "Desta vez, eu vou VIVER de verdade" expressa em jogo — vida plena no cotidiano do clã)_
 - **Gatilhos de XP do playbook:** _(anotar ao escolher playbook)_
 - **XP da facção:** 0 | **Tier da facção:** 0
 
