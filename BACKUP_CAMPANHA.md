@@ -131,6 +131,8 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
   - **Sucesso:** a moldura de "mercadoria barata" MORREU. Dokgo Hwan recuou; a oferta de discípulo externo foi retirada na hora; parte da comitiva ficou visivelmente perturbada ("essa criança não é normal").
   - **CONSEQUÊNCIA (grave, posição desesperada):** o tiro saiu PELA CULATRA no pior alvo possível — **Ancião Cheol ADOROU**: temperamento demoníaco + talento monstruoso é exatamente o perfil que o **Senhor Sectário** procura para discípulo DIRETO. Cheol encerrou a negociação pessoalmente: *"A dívida vence em 30 dias, integral. Ou 8.000 taéis... ou o menino — e agora não será como discípulo externo. O Senhor Sectário virá conhecê-lo PESSOALMENTE."* **Clock da Dívida: ◼◼◼◼◼◼ (6/6 — COMPLETO).** A comitiva partiu; a ameaça agora tem data e é maior que antes.
 - Novo clock de crise: **"A Visita do Senhor Sectário" ☐☐☐☐☐☐☐☐ (8) — 30 dias.**
+- **Pós-comitiva:** Mu-Jin tentou quebrar a tensão com a família — bolinho, carinha fofa, "dei o meu melhor mas não adiantou hahaha". **Sway 1d: [1] = RESULTADO RUIM.** A máscara de criança NÃO colou: para o pai, a fofura depois DAQUILO soou como deboche — ele explodiu (dor + medo + fúria): ordenou Mu-Jin confinado no complexo até segunda ordem e convocou o conselho. A mãe interceptou Mu-Jin no corredor e mostrou que sempre soube que há algo errado: falou baixinho *"Chega de teatro. Hoje à noite, no meu escritório. Só nós dois."* — primeira vez que alguém EXIGE a verdade. Mu-Hyuk ficou do lado de fora do drama, confuso, defendendo o irmão sem entender nada.
+- Pendente: a conversa noturna com a mãe (ela desconfia da alma adulta); confinamento; 30 dias correndo.
 
 ---
 
@@ -189,11 +191,9 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** A comitiva do Punho de Ferro partiu. O pátio ficou em silêncio
-absoluto após o ultimato de Cheol: **30 dias — 8.000 taéis ou Mu-Jin** (agora
-como candidato a discípulo DIRETO do Senhor Sectário, que virá pessoalmente).
-A gargalhada maníaca de Mu-Jin matou a oferta humilhante, mas elevou a aposta.
-No pátio restam: o pai (entre fúria, medo e um filho que não reconhece mais),
-a mãe que assistiu da varanda, os anciões em pânico, e Mu-Jin com stress 2/9.
-Cena doméstica pós-crise pendente — o confronto com o pai é inevitável.
-O jogador decide como Mu-Jin lida com a família e com os 30 dias.
+**Última cena:** Fim da manhã da cobrança. A tentativa de Mu-Jin de desarmar a
+família com fofura falhou ([1]): o pai explodiu — confinamento no complexo e
+conselho convocado. A mãe marcou conversa a sós à noite no escritório dela
+("Chega de teatro") — ela exigirá a verdade sobre quem/o que Mu-Jin é.
+Clocks: Senhor Sectário 0/8 (30 dias). Stress 2/9. O jogador decide: como
+passar o dia confinado, e PRINCIPALMENTE o que revelar (ou não) à mãe à noite.

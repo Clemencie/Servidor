@@ -23,3 +23,4 @@
 {"quando_utc": "2026-07-24T08:38:03+00:00", "expressao": "pool 1d", "modo": "pool_fitd", "dados": [3], "maior": 3, "critico": false, "resultado": "RESULTADO RUIM"}
 {"quando_utc": "2026-07-24T08:38:03+00:00", "expressao": "pool 2d", "modo": "pool_fitd", "dados": [2, 1], "maior": 2, "critico": false, "resultado": "RESULTADO RUIM"}
 {"quando_utc": "2026-07-24T08:47:05+00:00", "expressao": "pool 1d", "modo": "pool_fitd", "dados": [4], "maior": 4, "critico": false, "resultado": "SUCESSO COM CONSEQUÊNCIAS"}
+{"quando_utc": "2026-07-24T08:52:35+00:00", "expressao": "pool 1d", "modo": "pool_fitd", "dados": [1], "maior": 1, "critico": false, "resultado": "RESULTADO RUIM"}
