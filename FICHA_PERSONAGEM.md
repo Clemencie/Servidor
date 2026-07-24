@@ -31,11 +31,12 @@
 
 | Ação | Pontos | Ação | Pontos | Ação | Pontos |
 |------|:---:|------|:---:|------|:---:|
-| Attune | 0 | Force | 0 | Refine | 0 |
-| Blitz | 0 | Hunt | 0 | Study | 0 |
-| Endure | 0 | Mask | 0 | Sway | 0 |
+| Attune | 2 | Force | 1 | Refine | 0 |
+| Blitz | 1 | Hunt | 0 | Study | 1 |
+| Endure | 1 | Mask | 0 | Sway | 1 |
 
-> _Distribuição inicial do playbook + pontos de criação: preencher na criação._
+> _Distribuição inicial (7 pontos, máx. 2 por ação na criação — padrão FitD adaptado):_
+> _Attune 2 (raiz marcial excepcional / sensibilidade ao qi), Blitz 1, Endure 1, Force 1, Study 1 (mente adulta), Sway 1 (lábia de adulto em corpo de criança). Ajustável até o fim do Capítulo 1 se o jogador preferir._
 
 ## 4. ATRIBUTOS (para Rolagens de Resistência)
 

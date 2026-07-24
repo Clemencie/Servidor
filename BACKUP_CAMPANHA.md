@@ -71,6 +71,12 @@
 - Nascimento: **Clã Yeon** (Clã da Andorinha), casa nobre de espadachins em declínio. Pai: **Yeon Baek-San** (patriarca). Mãe: **Dama Seo Hwa-Ryun**. Irmão: **Yeon Mu-Hyuk** (herdeiro, +6 anos). Nome dado pelos pais: **YEON MU-JIN (연무진)**.
 - Presságio público: revoada de andorinhas cobriu a lua no nascimento — a província comenta que "nasceu uma estrela no Clã Yeon" (fama + atenção indesejada).
 
+### Sessão 2 — Capítulo 1: O Teste da Raiz Marcial (2026-07-24)
+- Salto temporal: Mu-Jin aos **6 anos**. Cerimônia pública no Salão Ancestral: teste da raiz marcial com o **Orbe de Jade da Andorinha** (relíquia que mede talento).
+- Ações iniciais distribuídas na ficha (Attune 2, Blitz 1, Endure 1, Force 1, Study 1, Sway 1) — ajustáveis até o fim do Cap. 1.
+- **Action Roll (Attune 2d): [5,4] = SUCESSO COM CONSEQUÊNCIAS** — o orbe revelou talento lendário (brilho jamais visto em gerações), MAS o qi de Mu-Jin foi forte demais: **o Orbe de Jade rachou** diante do clã inteiro e de convidados — entre eles **Dokgo Hwan**, emissário da **Seita do Punho de Ferro** (credora do clã), que testemunhou tudo.
+- Aguardando reação do jogador à consequência.
+
 ---
 
 ## 👥 NPCs CONHECIDOS
@@ -81,6 +87,7 @@
 | **Yeon Baek-San** | Patriarca do Clã Yeon, espadachim orgulhoso | Pai | Vivo |
 | **Dama Seo Hwa-Ryun** | De família mercante; prática e afetuosa | Mãe | Viva |
 | **Yeon Mu-Hyuk** | Herdeiro do clã; talento mediano, esforço enorme | Irmão mais velho (+6 anos) | Vivo |
+| **Dokgo Hwan** | Emissário da Seita do Punho de Ferro (credora do Clã Yeon); frio, calculista | Testemunhou o talento de Mu-Jin no teste | Ativo — interesse desconhecido |
 
 ---
 
@@ -111,9 +118,11 @@
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Prólogo CONCLUÍDO. Yeon Mu-Jin nasceu no Clã Yeon sob presságios
-auspiciosos. Próxima cena: **Capítulo 1 — infância no Clã Yeon** (sugerido: salto
-temporal para ~5-7 anos, primeiras memórias, teste da raiz marcial diante do clã,
-primeiros sinais do declínio da casa). Pendências mecânicas: distribuir pontos de
-**Ações** e escolher **habilidade inicial do Ascendant** — pode ser feito no
-momento do primeiro teste de talento, em cena.
+**Última cena:** Capítulo 1, Salão Ancestral do Clã Yeon, Mu-Jin aos 6 anos.
+O Teste da Raiz Marcial acabou de acontecer: Attune 2d = [5,4], sucesso com
+consequências. O Orbe de Jade da Andorinha brilhou como nunca (talento lendário
+confirmado publicamente) e **RACHOU** — relíquia de gerações danificada diante
+de todos, incluindo Dokgo Hwan, emissário da seita credora. O salão está em
+silêncio de choque. O jogador decide agora como Mu-Jin reage (aceitar a
+consequência ou tentar Rolagem de Resistência — custaria Stress; também pode
+reagir socialmente à cena).
