@@ -86,7 +86,7 @@ e a decidir se carrega o Clã Yeon nas costas ou voa para longe dele.
 | Item | Usos restantes | Notas |
 |------|:---:|-------|
 | **Página do volume perdido do Sopro da Andorinha Celeste** | — (relíquia/prova) | Deixada pelo Senhor Sectário; fragmento AUTÊNTICO da 4ª camada — insuficiente sozinho, mas prova que a continuação existe e está ao alcance do Punho de Ferro |
-| **Convite lacrado — Torneio de Admissão do Punho de Ferro** | 1 | Em 1 ano; admissão como candidato a discípulo direto |
+| **Convite lacrado — Torneio de Admissão do Punho de Ferro (COM ADENDO)** | 1 | Em 1 ano. Adendo negociado por Mu-Jin, assinado pelo Senhor Sectário: páginas da 4ª camada entregues SÓ POR COMPARECER (vença ou perca); se vencer: volume completo + status de discípulo direto + cláusula de saída após 3 anos ("se conseguir sair andando") |
 
 ## 10. XP E AVANÇO
 

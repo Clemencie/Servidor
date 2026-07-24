@@ -35,3 +35,4 @@
 {"quando_utc": "2026-07-24T09:21:21+00:00", "expressao": "pool 2d", "modo": "pool_fitd", "dados": [2, 3], "maior": 3, "critico": false, "resultado": "RESULTADO RUIM"}
 {"quando_utc": "2026-07-24T09:25:42+00:00", "expressao": "pool 2d", "modo": "pool_fitd", "dados": [1, 3], "maior": 3, "critico": false, "resultado": "RESULTADO RUIM"}
 {"quando_utc": "2026-07-24T09:27:28+00:00", "expressao": "pool 1d", "modo": "pool_fitd", "dados": [2], "maior": 2, "critico": false, "resultado": "RESULTADO RUIM"}
+{"quando_utc": "2026-07-24T09:31:03+00:00", "expressao": "pool 1d", "modo": "pool_fitd", "dados": [5], "maior": 5, "critico": false, "resultado": "SUCESSO COM CONSEQUÊNCIAS"}

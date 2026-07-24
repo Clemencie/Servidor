@@ -174,6 +174,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - Novo item: **Página do volume perdido do Sopro da Andorinha Celeste** (autêntica; fragmento da 4ª camada — insuficiente sozinha, mas prova e amostra).
 - Clock novo: **"O Odre Cheio" ☐☐☐☐☐☐ (6)** — pressão do qi sem escada; avança a cada mês sem solução / uso excessivo de push.
 - Clock novo: **"Torneio de Admissão do Punho de Ferro" ☐☐☐☐☐☐☐☐ (8)** — 1 ano.
+- **Contra-negociação de Mu-Jin** (deitado, pernas cruzadas, estilo Shikamaru): "algo me diz que você quer MUITO que eu entre no seu clubinho — mas só vocês recebendo e eu me ferrando, fica difícil". **Sway 1d (desesperada): [5] = SUCESSO C/ CONSEQUÊNCIAS.**
+  - **Sucesso:** o Senhor Sectário voltou à porta, divertido de verdade, e MELHOROU a oferta formalmente (adendo escrito e assinado no próprio convite): se Mu-Jin comparecer ao Torneio, **recebe as páginas da 4ª camada ANTES, como "taxa de presença", vença ou perca**; se vencer e entrar como discípulo direto, o volume completo + tratamento de discípulo direto (recursos, proteção, sem servidão) + **cláusula de saída**: se após 3 anos quiser sair, sai livre — "se conseguir sair andando, é claro".
+  - **CONSEQUÊNCIA:** ele reconheceu a mente adulta do menino ABERTAMENTE: *"Sete anos não negociam assim. Eu não sei O QUE você é... mas agora eu quero descobrir com calma"* — Mu-Jin virou obsessão pessoal do Senhor Sectário (interesse subiu de 'talento raro' para 'mistério a ser possuído'); além disso, a barganha foi ouvida por Dokgo Hwan e Cheol do corredor — a lenda do "pequeno demônio que negocia deitado com o Senhor Sectário" vai se espalhar pelo mundo marcial.
+- O Senhor Sectário partiu de fato. Família subindo as escadas.
 
 ---
 
@@ -236,10 +240,11 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Quarto de Mu-Jin, fim da visita. Mu-Jin permaneceu deitado
-ignorando o Senhor Sectário (Sway [2] = ruim). O homem leu tudo: cultivo travado,
-método incompleto, odre cheio. Deixou convite lacrado (Torneio de Admissão, 1 ano)
-+ página autêntica do volume perdido como prova/isca, e saiu. Clocks novos:
-"O Odre Cheio" 0/6 e "Torneio" 0/8. A família ainda não sabe o que aconteceu no
-quarto. O jogador decide o próximo passo (contar à família? esconder o convite?
-buscar a continuação do método por outra via? etc.).
+**Última cena:** Quarto, segundos após a partida do Senhor Sectário. Mu-Jin
+contra-negociou deitado (Sway [5]): arrancou adendo assinado — páginas da 4ª
+camada só por comparecer ao Torneio; se vencer, volume completo + discípulo
+direto + cláusula de saída em 3 anos. PREÇO: virou obsessão pessoal do Senhor
+Sectário ("eu não sei O QUE você é, mas quero descobrir com calma") e a cena
+foi ouvida por Dokgo Hwan/Cheol — a lenda vai se espalhar pelo mundo marcial.
+A família está subindo as escadas AGORA; convite com adendo + página autêntica
+sobre a mesinha. O jogador decide o que mostrar/contar à família.
