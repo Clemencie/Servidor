@@ -164,6 +164,11 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
   - **Train leve (Attune 2d): [2,3] = RUIM** — a consolidação confirmou DEFINITIVAMENTE: sem a continuação do manual não há progresso; pior, a 3ª camada "cheia demais" começa a pressionar os meridianos (qi acumulado sem para onde subir — desconforto crônico leve; risco futuro se ficar meses sem solução).
 - **Clock "A Visita do Senhor Sectário": ◼◼◼◼◼◼◼◼ (8/8 — COMPLETO). O DIA CHEGOU.**
 
+### Sessão 7 — Capítulo 3: A Visita (2026-07-24)
+- **Decisão de Mu-Jin:** no dia da visita, desobedeceu a ordem do pai ("ao meu lado") e **ficou deitado no quarto, descansando**, ignorando a cerimônia.
+- **Fortuna (reação do Senhor Sectário, 2d): [1,3] = RESULTADO RUIM** — o Senhor Sectário recebeu o pagamento no pátio SEM descer da liteira, e diante da ausência do menino tomou como afronta-convite: **mandou a cerimônia inteira esperar e foi ELE, pessoalmente, até o quarto de Mu-Jin** — entrou sozinho, sem anúncio, atravessando o complexo (ninguém ousou impedir). A cena atual: o Senhor Sectário do Punho de Ferro parado na porta do quarto do menino de 7 anos que ficou na cama.
+- Situação de máximo perigo/intimidade: sem testemunhas, sem pai, sem protocolo.
+
 ---
 
 ## 🏮 VIDA COTIDIANA NO CLÃ YEON (retrato aos 7 anos)
@@ -223,9 +228,9 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** O 30º DIA CHEGOU (clock 8/8). Estado de Mu-Jin: pulsos quase
-curados (dor só em esforço máximo), cultivo travado na 3ª camada com qi
-"cheio demais" pressionando os meridianos, stress 2/9, 8.000 taéis no cofre.
-O Senhor Sectário do Punho de Ferro está chegando ao Clã Yeon para receber o
-pagamento e "conhecer" Mu-Jin. Cena da chegada pendente — o jogador decide a
-postura de Mu-Jin no encontro.
+**Última cena:** Quarto de Mu-Jin, dia da visita. Mu-Jin ficou deitado
+descansando em vez de comparecer à cerimônia (desobedecendo o pai). Fortuna
+[1,3]: o Senhor Sectário leu a ausência como afronta interessante — recebeu o
+pagamento sem descer da liteira e FOI PESSOALMENTE ao quarto, sozinho, sem
+anúncio. Está parado na porta agora. Sem testemunhas. O jogador decide como
+Mu-Jin recebe o homem mais perigoso que já esteve tão perto dele.
