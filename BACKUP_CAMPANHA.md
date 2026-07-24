@@ -178,6 +178,9 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
   - **Sucesso:** o Senhor Sectário voltou à porta, divertido de verdade, e MELHOROU a oferta formalmente (adendo escrito e assinado no próprio convite): se Mu-Jin comparecer ao Torneio, **recebe as páginas da 4ª camada ANTES, como "taxa de presença", vença ou perca**; se vencer e entrar como discípulo direto, o volume completo + tratamento de discípulo direto (recursos, proteção, sem servidão) + **cláusula de saída**: se após 3 anos quiser sair, sai livre — "se conseguir sair andando, é claro".
   - **CONSEQUÊNCIA:** ele reconheceu a mente adulta do menino ABERTAMENTE: *"Sete anos não negociam assim. Eu não sei O QUE você é... mas agora eu quero descobrir com calma"* — Mu-Jin virou obsessão pessoal do Senhor Sectário (interesse subiu de 'talento raro' para 'mistério a ser possuído'); além disso, a barganha foi ouvida por Dokgo Hwan e Cheol do corredor — a lenda do "pequeno demônio que negocia deitado com o Senhor Sectário" vai se espalhar pelo mundo marcial.
 - O Senhor Sectário partiu de fato. Família subindo as escadas.
+- **Mu-Jin ASSINOU o contrato** (nome infantil ao lado do punho fechado do Senhor Sectário) — compromisso selado: comparecerá ao Torneio de Admissão em 1 ano (páginas da 4ª camada garantidas por comparecer; se vencer, volume completo + discípulo direto + cláusula de saída em 3 anos).
+- **Fortuna (reação da família, 2d): [3,2] = RESULTADO RUIM** — a família entrou NO EXATO MOMENTO da assinatura: o pai viu o filho de 7 anos assinando contrato com a seita que veio comprá-lo, por conta própria, sem consultar ninguém — a ferida do "ele se vende sozinho" reabriu 10x pior. Baek-San não gritou: ficou em silêncio mortal, pegou o contrato, leu linha por linha na frente de todos... e saiu do quarto sem uma palavra, levando o contrato. A mãe ficou dividida (viu o VALOR do adendo — as páginas garantidas — mas o método foi indefensável). Mu-Hyuk não entendeu nada, só que "Jin-ah vai embora em um ano?" — e saiu correndo com os olhos cheios.
+- Estado: contrato assinado e VÁLIDO (nas mãos do pai agora); família em crise; a casa em silêncio.
 
 ---
 
@@ -224,7 +227,7 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 | **Encontrar a continuação do método de cultivo** | Aberto | Manual do Sopro da Andorinha incompleto; cultivo travado na 3ª camada |
 | **A visita à casa Seo** | Pendente | Condição do avô Seo pelo empréstimo: "quero conhecer o neto" |
 | **O Odre Cheio** | Clock ☐☐☐☐☐☐ (0/6) | Qi da 3ª camada pressionando meridianos sem escada; avança a cada mês sem solução ou abuso de push |
-| **Torneio de Admissão do Punho de Ferro** | Clock ☐☐☐☐☐☐☐☐ (0/8) | Em 1 ano; convite lacrado deixado pelo Senhor Sectário; "a escada" do cultivo como isca |
+| **Torneio de Admissão do Punho de Ferro** | Clock ☐☐☐☐☐☐☐☐ (0/8) | **CONTRATO ASSINADO por Mu-Jin.** Em 1 ano; páginas da 4ª camada por comparecer; vencer = volume completo + discípulo direto + saída em 3 anos |
 | Honrar a condição da Deusa ("Viva de verdade") | Contínuo | Crença central do personagem |
 
 ---
@@ -240,11 +243,11 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Quarto, segundos após a partida do Senhor Sectário. Mu-Jin
-contra-negociou deitado (Sway [5]): arrancou adendo assinado — páginas da 4ª
-camada só por comparecer ao Torneio; se vencer, volume completo + discípulo
-direto + cláusula de saída em 3 anos. PREÇO: virou obsessão pessoal do Senhor
-Sectário ("eu não sei O QUE você é, mas quero descobrir com calma") e a cena
-foi ouvida por Dokgo Hwan/Cheol — a lenda vai se espalhar pelo mundo marcial.
-A família está subindo as escadas AGORA; convite com adendo + página autêntica
-sobre a mesinha. O jogador decide o que mostrar/contar à família.
+**Última cena:** Quarto de Mu-Jin, noite do 30º dia. Mu-Jin assinou o contrato —
+e a família flagrou a assinatura (fortuna [3,2]): o pai leu o contrato em
+silêncio mortal e saiu levando-o, sem uma palavra (ferida reaberta:
+"meu filho se vende sozinho"); a mãe dividida entre o valor do adendo e o
+método indefensável; Mu-Hyuk saiu correndo em lágrimas ("Jin-ah vai embora?").
+O contrato é válido e está com o pai. A casa está em silêncio de luto.
+O jogador decide como Mu-Jin lida com os destroços familiares — e com o ano
+de preparação até o Torneio.
