@@ -150,6 +150,16 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - **Fortuna (reação de Hwa-Ryun, 2d): [3,3] = RESULTADO RUIM** — o coração de mãe venceu o faro de negócio: **ela PROIBIU** ("Você tem SETE anos; está confinado por ordem do seu pai; não vai caçar besta nenhuma"). A porta oficial fechou — qualquer ida às montanhas terá que ser escondida, ou Mu-Jin terá que convencer alguém com autoridade/força (pai? Velho Gok?) a levá-lo.
 - Situação: confinado, 30 dias no relógio, plano de bestas vetado oficialmente.
 
+### Sessão 6 — Capítulo 3: Os Trinta Dias (2026-07-24)
+- Mu-Jin escolheu **obedecer**: treinar confinado e passar a **esconder a força real**.
+- Downtime dos 30 dias (rolagens brutais):
+  - **Cultivo (Attune 2d): [2,3] = RUIM** — o manual do Sopro da Andorinha Celeste ACABOU (flaw do método: capítulos além da 3ª camada perdidos há 2 gerações). Improvisos causaram 2 quase-desvios de qi (sangue na boca). **Cultivo estagnado na 3ª camada.** Breakthrough clock segue 2/8 — precisa de método completo/continuação.
+  - **Espada (Blitz 1d): [1] = RUIM** — frustração + overtraining: **condição leve "tendões inflamados (pulsos)"** registrada; proibido de espada na última semana.
+  - **Máscara (Mask 0d): [5,1]→1 = RUIM** — a tentativa de esconder a força FALHOU: explosão involuntária de qi em treino público; fofoca escapou ("o pequeno demônio já enfrenta adolescentes"); a informação chegou a Dokgo Hwan.
+  - **Dinheiro (fortuna 2d): [2,4] = SUCESSO C/ CONSEQUÊNCIAS** — **8.000 taéis LEVANTADOS** (dote + joias + casa Seo), guardados no cofre do clã. Consequências: (a) o avô Seo cobrou condição — "a casa Seo quer conhecer o neto" (visita futura obrigatória); (b) o Punho de Ferro soube do dinheiro e respondeu por bilhete: o Senhor Sectário virá no 30º dia para receber o pagamento E conhecer Mu-Jin — "uma coisa não substitui a outra".
+- **Clock "A Visita do Senhor Sectário": ◼◼◼◼◼◼☐☐ (6/8).**
+- Estado: faltam poucos dias para a visita; Mu-Jin com tendões inflamados, cultivo travado, fachada furada; taéis no cofre.
+
 ---
 
 ## 🏮 VIDA COTIDIANA NO CLÃ YEON (retrato aos 7 anos)
@@ -191,7 +201,9 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 | Objetivo | Status | Observações |
 |----------|--------|-------------|
 | **A Dívida do Clã Yeon** (Seita do Punho de Ferro) | Clock ◼◼◼◼◼◼ (6/6 COMPLETO) | Ultimato dado: 8.000 taéis em 30 dias, ou Mu-Jin |
-| **A Visita do Senhor Sectário** | Clock ☐☐☐☐☐☐☐☐ (0/8) | Em 30 dias o líder do Punho de Ferro vem PESSOALMENTE conhecer Mu-Jin |
+| **A Visita do Senhor Sectário** | Clock ◼◼◼◼◼◼☐☐ (6/8) | Ele vem no 30º dia: receber os 8.000 taéis E conhecer Mu-Jin — "uma coisa não substitui a outra" |
+| **Encontrar a continuação do método de cultivo** | Aberto | Manual do Sopro da Andorinha incompleto; cultivo travado na 3ª camada |
+| **A visita à casa Seo** | Pendente | Condição do avô Seo pelo empréstimo: "quero conhecer o neto" |
 | Honrar a condição da Deusa ("Viva de verdade") | Contínuo | Crença central do personagem |
 
 ---
@@ -207,10 +219,11 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Escritório, noite. Mu-Jin revelou o plano (caçar bestas por
-dinheiro + companheiro místico depois). Fortuna [3,3]: o coração de mãe venceu —
-Hwa-Ryun PROIBIU (7 anos + confinamento do pai). Rotas conhecidas: Leilão das
-Cem Presas (Cheonan, 5d), Montanhas Heukun (2d, "algo grande" no pico),
-Mercado Negro de Porto Mun (3d, contatos Seo). Para caçar, Mu-Jin precisará:
-escapar escondido, OU convencer o pai, OU recrutar aliado (Velho Gok?).
-Clocks: Senhor Sectário 0/8 (30 dias). Stress 2/9. Jogador decide o caminho.
+**Última cena:** Véspera da visita do Senhor Sectário (clock 6/8). Os 30 dias
+passaram: 8.000 taéis no cofre (dote+joias+casa Seo), MAS o Punho de Ferro
+avisou que o pagamento não cancela a "visita de conhecimento" a Mu-Jin.
+Estado do PC: cultivo TRAVADO na 3ª camada (manual incompleto — flaw), tendões
+dos pulsos inflamados (condição leve), fachada de força furada (fofoca chegou
+a Dokgo Hwan), stress 2/9. Dívidas narrativas: visita à casa Seo; "o resto da
+verdade" para a mãe. O jogador decide como Mu-Jin se prepara/age na véspera
+e no dia da visita do Senhor Sectário.

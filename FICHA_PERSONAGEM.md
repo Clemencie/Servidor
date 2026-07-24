@@ -47,8 +47,8 @@
 ## 5. STRESS, CONDIÇÕES E CICATRIZES
 
 - **Stress:** 2 / 9 → `◼◼☐☐☐☐☐☐☐` _(2 de push — Ímpeto do Ascendente na cobrança)_
-- **Condition Track:** livre
-- **Recovery Clock:** ☐☐☐☐☐☐☐☐
+- **Condition Track:** ⚠️ **Leve — "Tendões inflamados (pulsos)"** (overtraining dos 30 dias; treino de espada suspenso na última semana)
+- **Recovery Clock:** ◼◼☐☐☐☐☐☐ (em recuperação)
 - **Scars (cicatrizes permanentes):** nenhuma
 
 ## 6. CRENÇAS & CONNECTION CLOCKS
@@ -74,7 +74,7 @@ e a decidir se carrega o Clã Yeon nas costas ou voa para longe dele.
 ### Técnicas
 | Técnica | Tipo | Qualidade | Realm | Condição | Edges / Flaws |
 |---------|------|-----------|-------|----------|---------------|
-| **Sopro da Andorinha Celeste** | Método de Cultivo | Padrão | 0 | OK | Edge: harmoniza com a raiz de Mu-Jin (fluxo veloz e leve) / Flaw: método incompleto — o manual do clã perdeu os capítulos além da Primeira Classe |
+| **Sopro da Andorinha Celeste** | Método de Cultivo | Padrão | 0 | ⚠️ LIMITE ATINGIDO | Edge: harmoniza com a raiz de Mu-Jin / Flaw CONFIRMADO: manual INCOMPLETO — capítulos além da 3ª camada perdidos há 2 gerações; cultivo estagnado até achar a continuação ou método superior |
 | **Espada da Andorinha Celeste (Fundamentos)** | Técnica de ataque/movimento | Padrão | 0 | OK | Edge: footwork evasivo característico do clã |
 
 ### Tesouros
