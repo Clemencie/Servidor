@@ -46,7 +46,7 @@
 
 ## 5. STRESS, CONDIÇÕES E CICATRIZES
 
-- **Stress:** 0 / 9 → `☐☐☐☐☐☐☐☐☐`
+- **Stress:** 2 / 9 → `◼◼☐☐☐☐☐☐☐` _(2 de push — Ímpeto do Ascendente na cobrança)_
 - **Condition Track:** livre
 - **Recovery Clock:** ☐☐☐☐☐☐☐☐
 - **Scars (cicatrizes permanentes):** nenhuma

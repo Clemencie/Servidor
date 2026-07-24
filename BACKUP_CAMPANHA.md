@@ -118,6 +118,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - NPC novo revelado: **Ancião Cheol** — cultivador do Punho de Ferro, qi de "represa fechada", MUITO acima do patriarca; veio pessoalmente por ordem do Senhor Sectário.
 - **Consequência do 5:** Dokgo Hwan percebeu Mu-Jin no telhado e o expôs diante do pátio inteiro, convidando-o a descer. Todos olhando; o pai lívido.
 - Aguardando: reação de Mu-Jin exposto no telhado.
+- Mu-Jin **desceu e cruzou os braços**, encarando a comitiva. **Sway 1d: [1] = RUIM** → Ancião Cheol interpretou como insolência e liberou pressão de qi calibrada para dobrar os joelhos do menino diante do pátio (consequência: humilhação pública + condição "Abalado").
+- Mu-Jin escolheu **responder** (Ímpeto do Ascendente: push 2 Stress → +1d/+1 efeito): **Attune 3d: [2,6,1] = SUCESSO PLENO (com efeito ampliado)** — meio joelho dobrou... e então o qi da 3ª camada explodiu de volta em espiral de andorinha. Mu-Jin ficou DE PÉ, braços cruzados, encarando Cheol. O pátio inteiro viu o menino de 7 anos aguentar a pressão de um Ancião do Punho de Ferro.
+- Efeitos: lenda da Marca da Andorinha decuplicada; nível real de Mu-Jin parcialmente revelado à seita (3ª camada aos 7 anos — informação valiosíssima nas mãos de Dokgo Hwan); Cheol fechou a "represa" com um brilho de cobiça nos olhos; o pai chegou e se pôs entre Mu-Jin e a comitiva.
+- Stress: 2/9. Situação: negociação em ponto de ruptura — a seita viu EXATAMENTE o que queria comprar.
 
 ---
 
@@ -175,10 +179,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Pátio principal do Clã Yeon, manhã da cobrança. Mu-Jin espiou
-do telhado (Mask 0d = 5): ouviu que a dívida é de 8.000 taéis, que é PRETEXTO —
-o Senhor Sectário do Punho de Ferro quer Mu-Jin como pagamento — e que o
-Ancião Cheol (muito acima do pai em poder) veio garantir isso. CONSEQUÊNCIA:
-Dokgo Hwan o notou e o expôs: "Desça, segundo jovem mestre. Estávamos falando
-de você." Pátio inteiro olhando (pai, comitiva armada, anciões do clã).
-O jogador decide a próxima ação de Mu-Jin.
+**Última cena:** Pátio do Clã Yeon, clímax da cobrança. Mu-Jin acaba de aguentar
+DE PÉ (Attune 3d=6, push com Ímpeto) a pressão de qi do Ancião Cheol, diante de
+todos — revelando parcialmente seu nível real (3ª camada aos 7 anos). Cheol
+recolheu o qi com cobiça explícita; Dokgo Hwan recalcula o "preço da mercadoria";
+o patriarca se colocou entre o filho e a comitiva, mão na espada. A negociação
+está em ponto de ruptura: a seita agora QUER Mu-Jin mais do que nunca. Stress
+do PC: 2/9. O jogador decide a próxima ação (falar? deixar o pai conduzir? etc.).
