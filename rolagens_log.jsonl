@@ -1,0 +1,5 @@
+{"quando_utc": "2026-07-24T05:41:49+00:00", "expressao": "1d20", "modo": "normal", "dados": [6], "modificador": 0, "total": 6}
+{"quando_utc": "2026-07-24T05:41:49+00:00", "expressao": "3d6+2", "modo": "normal", "dados": [4, 4, 4], "modificador": 2, "total": 14}
+{"quando_utc": "2026-07-24T05:41:49+00:00", "expressao": "1d100", "modo": "normal", "dados": [86], "modificador": 0, "total": 86}
+{"quando_utc": "2026-07-24T05:41:49+00:00", "expressao": "1d20", "modo": "vantagem", "rolagens": [20, 4], "escolhido": 20, "modificador": 0, "total": 20}
+{"quando_utc": "2026-07-24T05:41:49+00:00", "expressao": "1d20", "modo": "desvantagem", "rolagens": [19, 9], "escolhido": 9, "modificador": 0, "total": 9}
