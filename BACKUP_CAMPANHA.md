@@ -134,6 +134,13 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - **Pós-comitiva:** Mu-Jin tentou quebrar a tensão com a família — bolinho, carinha fofa, "dei o meu melhor mas não adiantou hahaha". **Sway 1d: [1] = RESULTADO RUIM.** A máscara de criança NÃO colou: para o pai, a fofura depois DAQUILO soou como deboche — ele explodiu (dor + medo + fúria): ordenou Mu-Jin confinado no complexo até segunda ordem e convocou o conselho. A mãe interceptou Mu-Jin no corredor e mostrou que sempre soube que há algo errado: falou baixinho *"Chega de teatro. Hoje à noite, no meu escritório. Só nós dois."* — primeira vez que alguém EXIGE a verdade. Mu-Hyuk ficou do lado de fora do drama, confuso, defendendo o irmão sem entender nada.
 - Pendente: a conversa noturna com a mãe (ela desconfia da alma adulta); confinamento; 30 dias correndo.
 
+### Sessão 5 — Capítulo 2: O Escritório da Mãe (2026-07-24)
+- Noite. Escritório de Seo Hwa-Ryun: ela revelou que desconfia há 7 anos (bebê que ouvia, línguas no sono, prato favorito "adulto") e propôs a negociação: acreditar no impossível + silêncio ao pai, em troca da verdade — *"O que você é, e o que aconteceu com o meu filho?"*
+- Resposta de Mu-Jin: **"Eu sou Mu-Jin, mãe..."** (sinceridade parcial, sem revelar o resto).
+- **Action Roll (Sway 1d): [2] = RESULTADO RUIM** — para uma negociadora nata, meia-verdade = quebra do acordo. Ela não gritou nem chorou: recolheu a mão da mesa, esfriou o olhar (a "porta" que estava aberta fechou) e fez a leitura fatal: se não há confiança, ela resolve sozinha — anunciou que vai vender o dote pessoal/joias e acionar a família Seo para levantar os 8.000 taéis, e que "se o meu filho não confia em mim, então esta casa protegerá o corpo dele — já que o coração eu não posso alcançar". Saiu da sala deixando Mu-Jin com o tteokguk intocado.
+- Consequência mecânica: **Connection Clock "Família Yeon" recuou/travou** (ferida aberta com a mãe); Dama Seo agora age por conta própria (nova frente: a família mercante Seo entra no tabuleiro — e mexer com dinheiro grande em 30 dias atrai atenção).
+- Pendente: Mu-Jin sozinho no escritório; pode ir atrás dela, contar tudo, ou deixar assim.
+
 ---
 
 ## 🏮 VIDA COTIDIANA NO CLÃ YEON (retrato aos 7 anos)
@@ -191,9 +198,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Fim da manhã da cobrança. A tentativa de Mu-Jin de desarmar a
-família com fofura falhou ([1]): o pai explodiu — confinamento no complexo e
-conselho convocado. A mãe marcou conversa a sós à noite no escritório dela
-("Chega de teatro") — ela exigirá a verdade sobre quem/o que Mu-Jin é.
-Clocks: Senhor Sectário 0/8 (30 dias). Stress 2/9. O jogador decide: como
-passar o dia confinado, e PRINCIPALMENTE o que revelar (ou não) à mãe à noite.
+**Última cena:** Escritório da mãe, noite. Mu-Jin respondeu apenas "Eu sou
+Mu-Jin, mãe..." (Sway [2] = ruim). Hwa-Ryun leu como quebra da negociação:
+esfriou, anunciou que venderá o dote/joias e acionará a família Seo pelos
+8.000 taéis, e saiu ("esta casa protegerá o corpo dele — já que o coração eu
+não posso alcançar"). Mu-Jin sozinho com o tteokguk esfriando. Connection
+Clock da família ferido. O jogador decide: ir atrás dela / contar tudo /
+deixar assim / outra ação.
