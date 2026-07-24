@@ -140,6 +140,11 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - **Action Roll (Sway 1d): [2] = RESULTADO RUIM** — para uma negociadora nata, meia-verdade = quebra do acordo. Ela não gritou nem chorou: recolheu a mão da mesa, esfriou o olhar (a "porta" que estava aberta fechou) e fez a leitura fatal: se não há confiança, ela resolve sozinha — anunciou que vai vender o dote pessoal/joias e acionar a família Seo para levantar os 8.000 taéis, e que "se o meu filho não confia em mim, então esta casa protegerá o corpo dele — já que o coração eu não posso alcançar". Saiu da sala deixando Mu-Jin com o tteokguk intocado.
 - Consequência mecânica: **Connection Clock "Família Yeon" recuou/travou** (ferida aberta com a mãe); Dama Seo agora age por conta própria (nova frente: a família mercante Seo entra no tabuleiro — e mexer com dinheiro grande em 30 dias atrai atenção).
 - Pendente: Mu-Jin sozinho no escritório; pode ir atrás dela, contar tudo, ou deixar assim.
+- **Mu-Jin correu atrás dela**, segurou o pulso e abriu o coração de verdade (sem revelar a reencarnação): quer uma vida tranquila e aproveitá-la ao máximo; ao ver que queriam tirar tudo dele, sentiu ódio e vontade de acabar com eles.
+- **Action Roll (Sway 1d): [5] = SUCESSO COM CONSEQUÊNCIAS.**
+  - **Sucesso:** Hwa-Ryun reconheceu a PRIMEIRA emoção 100% verdadeira do filho; a porta reabriu — ela o abraçou, aceitou o "ainda não" implícito e selou aliança de mãe: os dois contra o mundo, no ritmo dele.
+  - **CONSEQUÊNCIA:** ela aceitou a emoção como verdade, mas AGORA TEM CERTEZA de que existe um segredo maior (a resposta não explicou línguas no sono, olhar adulto, etc.). Estabeleceu um TERMO: *"Um dia — não hoje — você vai me contar o resto. E quando esse dia chegar, sem meias-palavras."* (dívida de verdade pendente com a mãe, registrada como gancho). Além disso, manteve o plano de acionar a família Seo/dote — movimento de dinheiro grande em 30 dias continua (risco de atrair atenção).
+- Connection Clock "Família Yeon" reaquecido (a ferida com a mãe fechou parcialmente; com o pai segue aberta).
 
 ---
 
@@ -198,10 +203,11 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Escritório da mãe, noite. Mu-Jin respondeu apenas "Eu sou
-Mu-Jin, mãe..." (Sway [2] = ruim). Hwa-Ryun leu como quebra da negociação:
-esfriou, anunciou que venderá o dote/joias e acionará a família Seo pelos
-8.000 taéis, e saiu ("esta casa protegerá o corpo dele — já que o coração eu
-não posso alcançar"). Mu-Jin sozinho com o tteokguk esfriando. Connection
-Clock da família ferido. O jogador decide: ir atrás dela / contar tudo /
-deixar assim / outra ação.
+**Última cena:** Corredor/escritório, noite. Mu-Jin segurou o pulso da mãe e
+entregou a emoção verdadeira (vida tranquila + ódio de quem quer tirá-la).
+Sway [5]: a porta reabriu — abraço, aliança de mãe selada ("no seu ritmo"),
+MAS ela agora tem certeza de que há um segredo maior e cobrou o termo: "um dia
+você me conta o resto, sem meias-palavras" (gancho pendente). Ela mantém o
+plano do dote/família Seo. Clocks: Senhor Sectário 0/8 (30 dias). Stress 2/9.
+Próximos rumos possíveis: os 30 dias (dinheiro, treino, plano contra a seita),
+conversa com o pai/irmão, ou o que o jogador decidir.
