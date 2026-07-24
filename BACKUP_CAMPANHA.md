@@ -122,6 +122,10 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 - Mu-Jin escolheu **responder** (Ímpeto do Ascendente: push 2 Stress → +1d/+1 efeito): **Attune 3d: [2,6,1] = SUCESSO PLENO (com efeito ampliado)** — meio joelho dobrou... e então o qi da 3ª camada explodiu de volta em espiral de andorinha. Mu-Jin ficou DE PÉ, braços cruzados, encarando Cheol. O pátio inteiro viu o menino de 7 anos aguentar a pressão de um Ancião do Punho de Ferro.
 - Efeitos: lenda da Marca da Andorinha decuplicada; nível real de Mu-Jin parcialmente revelado à seita (3ª camada aos 7 anos — informação valiosíssima nas mãos de Dokgo Hwan); Cheol fechou a "represa" com um brilho de cobiça nos olhos; o pai chegou e se pôs entre Mu-Jin e a comitiva.
 - Stress: 2/9. Situação: negociação em ponto de ruptura — a seita viu EXATAMENTE o que queria comprar.
+- **Mu-Jin interveio na negociação:** pediu ao pai que perguntasse a oferta da seita, declarando que "dependendo, iria de bom grado".
+- **Fortuna (reação do pai, 1d): [3] = RUIM** — Baek-San sentiu como traição/facada: o filho se oferecendo como mercadoria na frente do clã; reagiu com dor e fúria contida ("Yeon Mu-Jin, CALE-SE"), mas a fala do menino JÁ abriu a porta da negociação — impossível fechá-la.
+- **Fortuna (qualidade da oferta, 2d): [2,1] = RUIM** — a seita, vendo interesse do próprio menino, LEU FRAQUEZA e baixou a oferta: Dokgo Hwan ofereceu apenas **perdão da dívida + 500 taéis "de cortesia"** — e a exigência humilhante de Mu-Jin como **discípulo EXTERNO** (servo com aulas, sem proteção de discípulo interno, sem direito a visitas por 5 anos). Oferta objetivamente insultante para um talento daquele nível.
+- Situação aberta: o pai à beira de explodir; Cheol observando divertido; a oferta insultante na mesa; Mu-Jin decide como responder (aceitar, recusar, contra-ofertar, provocar...).
 
 ---
 
@@ -179,10 +183,9 @@ Se houver dúvida se foi duplicata ou intenção, pergunte fora da narrativa.
 > Esta seção deve SEMPRE descrever o momento exato da última cena,
 > para retomar sem perder nada.
 
-**Última cena:** Pátio do Clã Yeon, clímax da cobrança. Mu-Jin acaba de aguentar
-DE PÉ (Attune 3d=6, push com Ímpeto) a pressão de qi do Ancião Cheol, diante de
-todos — revelando parcialmente seu nível real (3ª camada aos 7 anos). Cheol
-recolheu o qi com cobiça explícita; Dokgo Hwan recalcula o "preço da mercadoria";
-o patriarca se colocou entre o filho e a comitiva, mão na espada. A negociação
-está em ponto de ruptura: a seita agora QUER Mu-Jin mais do que nunca. Stress
-do PC: 2/9. O jogador decide a próxima ação (falar? deixar o pai conduzir? etc.).
+**Última cena:** Pátio, negociação aberta POR Mu-Jin (pediu ao pai que ouvisse a
+oferta; disse que "dependendo, iria de bom grado"). Pai reagiu com dor/fúria
+(fortuna [3]) mas a porta abriu. A seita leu fraqueza e fez oferta INSULTANTE
+(fortuna [2,1]): perdão da dívida + 500 taéis + Mu-Jin como discípulo EXTERNO
+(servo com aulas, sem visitas por 5 anos). Cheol se diverte; o pai está à beira
+de explodir. Mu-Jin decide a resposta à oferta.
