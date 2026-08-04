@@ -157,4 +157,25 @@ Clemence foi retirado do círculo sob custódia da Lanterna Branca. O laço cont
 
 Local atual: **galeria subterrânea do Palácio Veyl, sendo escoltado para interrogatório**.
 
+## Sétima interação — A primeira circulação de Ki
+
+Clemence fechou os olhos e tentou fazer a Mana circular pelo umbigo, inspirando-se em conceitos de cultivo conhecidos de sua vida na Terra. A imagem mental, sozinha, não produziu efeito. Sua Teoria da Mana e Canalização permitiram que ele identificasse o fluxo real e o separasse da fantasia de um núcleo já existente.
+
+Com esforço, Clemence formou um pequeno centro temporário de circulação e completou um primeiro ciclo de Mana pelo abdômen, coluna, ombros e braços. O Laço de Contenção apertou-se, pois foi criado para interromper magia projetada para fora do corpo, mas não conseguiu impedir completamente a circulação interna.
+
+O primeiro ciclo foi reconhecido como uma nova proficiência, nomeada pelo próprio Clemence:
+
+- **Ki 1 — Circulação Interna**
+- Efeito atual: permite sustentar um ciclo curto e reforçar momentaneamente uma ação física ou suportar melhor uma contenção.
+- Limite: não concede força permanente, não quebra o Laço e exige concentração e Mana.
+- Aprendizado futuro: exigirá repetição, compreensão corporal, resistência e situações reais.
+
+Custos registrados:
+
+- Mana: **69/101**
+- Foco: **37/46**
+- Estado: **Ki em circulação instável**; o Laço de Contenção continua ativo.
+
+Calienne percebeu que Clemence estava usando o próprio corpo como um círculo mágico. Varric ordenou que a contenção fosse reforçada, temendo que a nova técnica permitisse uma fuga. A Igreja ainda não sabe se Ki é uma forma de magia, uma proficiência física ou algo que não existe em suas doutrinas.
+
 **A campanha aguarda a próxima ação de Clemence.**

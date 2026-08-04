@@ -95,10 +95,10 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 | Recurso | Valor atual | Valor máximo provisório | Observações |
 |---|---:|---:|---|
 | Vida | 125 | 125 | Pode mudar com origem e equipamento |
-| Mana | 81 | 101 | 20 gastos na tentativa de inversão do vínculo |
+| Mana | 69 | 101 | 32 gastos em vínculo e circulação interna |
 | Estamina | 62 | 62 | Usada por esquivas, esforço e técnicas físicas |
 | Guarda | 25 + equipamento | 25 + equipamento | Pode ser alterada por armadura, escudo e postura |
-| Foco | 42 | 46 | 4 gastos na tentativa de inversão do vínculo |
+| Foco | 37 | 46 | 9 gastos em vínculo e circulação interna |
 
 ## 6. Perícias iniciais
 
@@ -110,6 +110,7 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 | Teoria da Mana | **1** | 1 | Escolha do jogador |
 | Canalização | **1** | 1 | Escolha do jogador |
 | Invocação e vínculo | **1** | 1 | Escolha do jogador |
+| **Ki — Circulação Interna** | **1** | — | Aprendida durante a campanha |
 | **Pontos de Proficiência restantes** |  | **0** | 3/3 distribuídos |
 
 ## 7. Identidade e origem
@@ -133,18 +134,18 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 ```text
 Rodada: —
 Raça: Elfo | Origem: Invocado de outro mundo | Classe: nenhuma
-Vida: 125/125 | Mana: 81/101 | Estamina: 62/62
-Guarda: 25 + equipamento | Foco: 42/46
+Vida: 125/125 | Mana: 69/101 | Estamina: 62/62
+Guarda: 25 + equipamento | Foco: 37/46
 
-Ação Principal: gasta — inversão de vínculo
+Ação Principal: gasta — circulação inicial de Ki
 Movimento: indisponível — Laço de Contenção
 Reação: disponível, limitada pela contenção
 
-Estados: Refluxo de Vínculo; Laço de Contenção; sob custódia da Lanterna Branca
+Estados: Refluxo de Vínculo; Laço de Contenção; Ki em circulação instável; sob custódia da Lanterna Branca
 Recargas: Manipulação de vínculo — indisponível até recuperar a concentração
 Ferimentos: nenhum confirmado
 Local: galeria subterrânea do Palácio Veyl, escoltado para interrogatório
-Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1
+Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1, Ki 1
 Bênção: nenhuma
 Talento: Afinidade Instintiva
 Classe: nenhuma
