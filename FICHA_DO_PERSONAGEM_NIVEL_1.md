@@ -140,9 +140,10 @@ Ação Principal: gasta — inversão de vínculo
 Movimento: indisponível — Laço de Contenção
 Reação: disponível, limitada pela contenção
 
-Estados: Refluxo de Vínculo; Laço de Contenção
+Estados: Refluxo de Vínculo; Laço de Contenção; sob custódia da Lanterna Branca
 Recargas: Manipulação de vínculo — indisponível até recuperar a concentração
-Ferimentos:
+Ferimentos: nenhum confirmado
+Local: galeria subterrânea do Palácio Veyl, escoltado para interrogatório
 Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1
 Bênção: nenhuma
 Talento: Afinidade Instintiva

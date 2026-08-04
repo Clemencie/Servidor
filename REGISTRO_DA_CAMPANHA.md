@@ -147,4 +147,14 @@ Estado atual de Clemence:
 - Foco: **42/46**
 - Estado: **Laço de Contenção — corpo preso, vontade livre**
 
+## Sexta interação — Silêncio e captura
+
+Clemence permaneceu calado e imóvel, escolhendo não resistir ao Laço de Contenção nem interferir enquanto os inquisidores tomavam a câmara.
+
+O silêncio não congelou o mundo. Rhea foi atingida de raspão no ombro e desarmada depois de manter três inquisidores afastados por alguns instantes. Maerith usou o tempo para fechar parcialmente a fissura com um selo de emergência, priorizando impedir que algo atravessasse em vez de libertar Clemence. Othmar aproveitou a confusão para escapar por uma passagem lateral levando um fragmento das runas quebradas. Calienne permaneceu na câmara e exigiu que Varric não matasse nenhum dos presentes.
+
+Clemence foi retirado do círculo sob custódia da Lanterna Branca. O laço continua prendendo seu corpo, mas não sua vontade. A fissura foi contida de forma temporária e o vínculo com Clemence permanece ativo em nível desconhecido.
+
+Local atual: **galeria subterrânea do Palácio Veyl, sendo escoltado para interrogatório**.
+
 **A campanha aguarda a próxima ação de Clemence.**
