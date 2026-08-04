@@ -157,20 +157,82 @@ Dano final = máximo(0, Dano após defesa ativa - barreira absorvente)
 6. A aquisição de uma classe poderá alterar a forma como facções, NPCs e instituições enxergam o personagem.
 7. A ordem exata entre **Lendária** e **Épica**, assim como o número de classes, subclasses, trocas e especializações permitidas, será definida no balanceamento final.
 
-## 11. Derrota, morte e continuidade
+## 11. Turnos, rodadas e economia de ações
+
+### 11.1 Unidade de tempo
+
+1. Combates serão organizados em **rodadas narrativas**. Uma rodada representa uma pequena janela de ação em que todos os combatentes podem agir, reagir e sofrer consequências.
+2. Cada combatente terá um **turno** dentro da rodada. A ordem será determinada sem rolagem por Velocidade de Ação, formada principalmente por Agilidade, Percepção, estado atual, equipamento e características da técnica utilizada.
+3. Surpresa, emboscada, inconsciência, contenção ou diferença extrema de velocidade poderão impedir um personagem de agir ou reagir na primeira rodada, desde que isso seja justificável pela cena.
+4. O turno não representa um número exato e rígido de segundos. Ele representa uma unidade de ação suficiente para manter a narrativa clara sem permitir ações ilimitadas.
+5. Fora de combate, o mundo não ficará congelado esperando o turno do jogador. A economia de ações será usada apenas quando houver disputa de tempo ou risco relevante.
+
+### 11.2 Recursos de cada turno
+
+Por padrão, cada personagem recebe por turno:
+
+- **1 Ação Principal:** atacar, lançar uma magia, usar um item complexo, agarrar, interagir com o ambiente ou iniciar uma preparação;
+- **1 Movimento:** mudar de posição, atravessar uma distância compatível ou levantar-se, conforme a situação;
+- **1 Reação por rodada:** esquivar, aparar, interromper ou usar uma defesa reativa quando um evento permitir;
+- **Ações livres limitadas:** falar uma frase curta, soltar um objeto, olhar ao redor ou realizar algo simples que não exija tempo significativo.
+
+A Ação Principal e o Movimento são renovados no início do turno seguinte. A Reação é renovada quando o personagem inicia seu próximo turno. Recursos não utilizados não se acumulam para criar ações ilimitadas, salvo quando uma habilidade disser expressamente o contrário.
+
+### 11.3 Ataques, golpes e combos
+
+1. Um ataque comum consome uma Ação Principal. O jogador não poderá transformar uma única ação em dezenas de golpes apenas descrevendo uma sequência extensa.
+2. Uma técnica de combo será uma habilidade específica, com quantidade de golpes, custo, tempo de execução, alcance e limite definidos. O jogador poderá usar o combo, mas não inventar golpes adicionais fora da técnica.
+3. Armas ou atributos com alta velocidade poderão alterar a ordem de ação, o tempo de recuperação ou o custo de técnicas. Eles não concederão ataques infinitos por si só.
+4. Ataques extras só serão possíveis quando vierem de uma habilidade, classe, postura ou efeito claramente estabelecido. Mesmo nesses casos, terão limites, custos ou recargas.
+5. Uma técnica que exige preparação, canalização ou mais de uma unidade de tempo poderá ocupar a Ação Principal de mais de um turno. Durante esse período, o personagem poderá ficar vulnerável ou ser interrompido.
+
+### 11.4 Limites de defesa e esquiva
+
+1. A Reação é uma reserva limitada. Se o personagem gastar sua Reação para esquivar, aparar ou interromper, não poderá realizar outra defesa reativa até que ela seja renovada.
+2. Uma esquiva comum responde a um evento ou ataque compatível. Ela não concede imunidade automática contra todos os inimigos, projéteis e efeitos da rodada.
+3. Uma única esquiva poderá evitar vários golpes somente quando todos fizerem parte da mesma trajetória, área ou técnica e o deslocamento realmente retirar o personagem do perigo. Ataques de ângulos diferentes continuarão sendo resolvidos separadamente.
+4. Uma habilidade poderá conceder uma defesa em área, invulnerabilidade temporária ou reação adicional, mas a própria habilidade deverá definir sua duração, custo e limite.
+5. Estamina insuficiente, imobilização, Quebra de Guarda, terreno inadequado, exaustão ou falta de percepção poderão impedir uma esquiva mesmo que o personagem possua a técnica.
+6. Bloqueios mantidos por postura poderão exigir que a Ação Principal seja usada para entrar ou permanecer em Guarda. Nesse estado, o personagem terá menos liberdade de movimento e ataque.
+
+### 11.5 Declaração de ações
+
+1. O jogador declara **intenções**, não resultados. “Tento atacar duas vezes e fico preparado para esquivar” é uma declaração válida; “acerto cinquenta e nove vezes e esquivo de tudo” não é.
+2. Em cada turno, o jogador deverá indicar sua Ação Principal, seu Movimento quando relevante e, se desejar, uma intenção de reação condicional.
+3. Uma reação condicional não é uma defesa gratuita. Quando o evento ocorrer, ela consumirá a Reação e ainda deverá ser compatível com o ataque, a posição, a percepção, a técnica e os recursos disponíveis.
+4. O jogador não poderá declarar uma resposta a um acontecimento que seu personagem não percebeu, salvo se possuir uma habilidade ou sentido que permita isso.
+5. Se uma declaração tentar realizar ações demais, o mestre deverá informar quais cabem no turno e permitir que o jogador escolha como utilizar seus recursos.
+
+### 11.6 Registro transparente do combate
+
+Para evitar confusão, o estado relevante será atualizado ao fim de cada turno ou sempre que sofrer uma mudança importante. O registro poderá seguir este formato:
+
+```text
+Rodada: 3 | Turno: personagem do jogador
+Vida: 82/100 | Mana: 24/40 | Estamina: 15/30 | Guarda: 8/20
+Ação Principal: disponível
+Movimento: disponível
+Reação: gasta / disponível
+Estados: sangramento leve, atento
+Recargas: Esquiva aprimorada — 1 rodada restante
+```
+
+O mestre deverá manter controle dos recursos dos NPCs importantes da mesma forma. Assim, uma esquiva, cura, magia ou habilidade poderosa não será reutilizada sem que seu custo ou recarga seja respeitado.
+
+## 12. Derrota, morte e continuidade
 
 1. A morte do personagem é possível e deverá ser tratada como consequência real, não como uma interrupção automática da campanha.
 2. Se o personagem morrer, o mundo continuará avançando. O jogador poderá assumir outro personagem, acompanhar as repercussões ou escolher uma forma de continuidade permitida pelo sistema e pelo cenário.
 3. Ressurreição, retorno ou reversão da morte só existirão se forem possíveis dentro das regras e da lógica do mundo, e nunca serão garantidos.
 4. A morte de um NPC importante também terá consequências: deixarão de existir recursos, informações, vínculos e possibilidades que dependiam dele.
 
-## 12. Continuidade e cânone
+## 13. Continuidade e cânone
 
 1. Fatos estabelecidos em jogo serão considerados canônicos: decisões, mortes, alianças, dívidas, ferimentos, rumores, segredos descobertos, mudanças políticas e relações.
 2. O mestre deverá preservar a continuidade e manter registro dos elementos importantes da campanha.
 3. Contradições acidentais deverão ser corrigidas da forma menos invasiva possível. Retcons deliberados só ocorrerão com concordância explícita.
 4. O mundo deverá lembrar do que aconteceu, mesmo quando o jogador não estiver presente para testemunhar suas repercussões.
 
-## 13. Regra de ouro
+## 14. Regra de ouro
 
 > **O mestre apresenta um mundo coerente, vivo e imparcial; o jogador decide o que seu personagem faz; os atributos, as escolhas e as consequências determinam o que acontece depois.**
