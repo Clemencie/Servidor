@@ -234,4 +234,22 @@ Custos registrados:
 - Mana: **49/101**
 - Foco: **28/46**
 
+## Décima primeira interação — Acusação contra a Igreja
+
+Clemence acusou os presentes de arrogância por invocá-lo para um conflito que eles próprios não desejavam enfrentar.
+
+A acusação atingiu pontos diferentes em cada pessoa. Varric reconheceu que a Igreja não realizou a invocação, mas admitiu que agora pretende usar o invocado como recurso. Calienne considerou a acusação parcialmente justa. Edran não aceitou a palavra “obrigar”, mas confirmou que as opções oferecidas seriam uma cooperação sob custódia ou a permanência como prisioneiro perigoso.
+
+Edran explicou que a Casa Veyl realizou o ritual sem autorização. A Igreja capturou Clemence por considerar a invocação ilegal e a fissura uma ameaça. Entretanto, a Igreja também pretende enviá-lo à Catedral Afogada de Nhal-Veyr, porque almas locais não atravessam a barreira interna e as expedições anteriores falharam.
+
+A audiência passou a ter três caminhos oficiais:
+
+1. Clemence pode aceitar o status de agente conscrito, recebendo equipamento, instrução e uma equipe para entrar na dungeon.
+2. Pode permanecer como prisioneiro sob supressão, enquanto a Igreja decide seu destino e tenta encontrar outra forma de lidar com a fissura.
+3. Pode tentar construir uma terceira alternativa, embora ninguém tenha oferecido segurança para isso.
+
+A acusação não convenceu a Igreja a libertá-lo, mas impediu que o discurso oficial o tratasse simplesmente como servo ou herói escolhido. A relação com Edran tornou-se mais tensa; Calienne demonstrou maior abertura; Varric permaneceu pragmático.
+
+Ação atual: declaração social concluída. Ação Principal gasta nesta janela da audiência.
+
 **A campanha aguarda a próxima ação de Clemence.**

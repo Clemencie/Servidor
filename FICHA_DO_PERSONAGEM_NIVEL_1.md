@@ -137,7 +137,7 @@ Raça: Elfo | Origem: Invocado de outro mundo | Classe: nenhuma
 Vida: 125/125 | Mana: 49/101 | Estamina: 62/62
 Guarda: 25 + equipamento | Foco: 28/46
 
-Ação Principal: gasta — treinamento de Ki
+Ação Principal: gasta — declaração na audiência
 Movimento: limitado — Laço de Contenção fixado à parede
 Reação: disponível, limitada pela contenção
 
