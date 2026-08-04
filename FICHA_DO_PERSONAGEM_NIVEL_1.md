@@ -1,16 +1,16 @@
 # Ficha do Personagem do Jogador — Nível 1
 
-> Ficha criada a partir das rolagens informadas pelo jogador. A criação ainda está incompleta: faltam nome, origem, distribuição dos pontos, perícias escolhidas e equipamento.
+> Ficha atualizada com as rolagens, raça, atributos e proficiências escolhidos pelo jogador. A criação ainda está incompleta: faltam nome, origem e equipamento.
 
 ## 1. Estado atual
 
 - **Nível:** 1
-- **Raça:** a escolher
+- **Raça:** Elfo
 - **Origem:** a escolher
 - **Classe:** nenhuma
 - **Título:** nenhum
-- **Pontos de Atributo:** 12 disponíveis
-- **Pontos de Proficiência:** 3 disponíveis
+- **Pontos de Atributo:** 0 disponíveis — 12 distribuídos
+- **Pontos de Proficiência:** 0 disponíveis — 3 distribuídos
 - **Pontos de Técnica de Classe:** 0
 - **Bênção Divina:** nenhuma conhecida
 
@@ -49,76 +49,72 @@ O talento não permite controlar criaturas, conversar telepaticamente, impedir u
 
 ## 4. Atributos
 
-Todos começam em 5. Distribua os 12 pontos livres, com no máximo 5 pontos livres em um único atributo durante a criação.
+Os 12 pontos foram distribuídos igualmente: **2 pontos em cada atributo**. A raça Elfo aplica +1 Intelecto, +1 Percepção e -1 Vigor depois da distribuição.
 
-| Atributo | Base | Pontos livres | Bônus de origem/talento | Total |
+| Atributo | Base | Pontos livres | Modificador racial | Total |
 |---|---:|---:|---:|---:|
-| **Força** | 5 |  |  |  |
-| **Agilidade** | 5 |  |  |  |
-| **Vigor** | 5 |  |  |  |
-| **Intelecto** | 5 |  |  |  |
-| **Percepção** | 5 |  |  |  |
-| **Vontade** | 5 |  |  |  |
-| **Total** | **30** | **0/12** |  |  |
+| **Força** | 5 | +2 | — | **7** |
+| **Agilidade** | 5 | +2 | — | **7** |
+| **Vigor** | 5 | +2 | -1 | **6** |
+| **Intelecto** | 5 | +2 | +1 | **8** |
+| **Percepção** | 5 | +2 | +1 | **8** |
+| **Vontade** | 5 | +2 | — | **7** |
+| **Total** | **30** | **12/12** | **+1 líquido** | **43** |
 
-Os bônus de Aptidão Mágica, Física e Mental não são pontos livres de atributo. Eles entram nos cálculos e aprendizados relacionados às suas respectivas áreas.
+Os bônus de Aptidão Mágica, Física e Mental não são pontos livres de atributo. Eles entram nos cálculos e aprendizados relacionados às suas respectivas áreas. O modificador racial do Elfo reflete sua sensibilidade, percepção e constituição mais delicada.
 
 ## 5. Recursos derivados provisórios
 
-Os valores abaixo consideram todos os atributos ainda em 5, antes da distribuição dos 12 pontos e antes de equipamento ou origem:
+Os valores abaixo já consideram os atributos distribuídos e os modificadores raciais do Elfo, mas ainda não incluem origem ou equipamento:
 
 ```text
 Vida máxima = 50 + (Vigor × 10) + (Bônus de Aptidão Física × 5)
-             = 50 + 50 + 15
-             = 115
+             = 50 + 60 + 15
+             = 125
 
 Mana máxima = 20 + (Intelecto × 5) + (Vontade × 3)
              + (Bônus de Aptidão Mágica × 5)
-             = 20 + 25 + 15 + 20
-             = 80
+             = 20 + 40 + 21 + 20
+             = 101
 
 Estamina máxima = 20 + (Agilidade × 3) + (Vigor × 2)
                  + (Bônus de Aptidão Física × 3)
-                 = 20 + 15 + 10 + 9
-                 = 54
+                 = 20 + 21 + 12 + 9
+                 = 62
 
 Guarda máxima = 10 + (Vigor × 2) + Bônus de Aptidão Física
                 + equipamento
-                = 23 + equipamento
+                = 25 + equipamento
 
 Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
               + (Bônus de Aptidão Mental × 3)
-              = 36
+              = 46
 ```
-
-Os valores finais serão recalculados depois da distribuição dos atributos e da escolha da origem e do equipamento.
 
 | Recurso | Valor atual | Valor máximo provisório | Observações |
 |---|---:|---:|---|
-| Vida | 115 | 115 | Pode mudar com Vigor, origem e equipamento |
-| Mana | 80 | 80 | Nenhuma magia conhecida ainda |
-| Estamina | 54 | 54 | Usada por esquivas, esforço e técnicas físicas |
-| Guarda | 23 + equipamento | 23 + equipamento | Pode ser alterada por armadura, escudo e postura |
-| Foco | 36 | 36 | Concentração e resistência mental |
+| Vida | 125 | 125 | Pode mudar com origem e equipamento |
+| Mana | 101 | 101 | Nenhuma magia específica conhecida ainda |
+| Estamina | 62 | 62 | Usada por esquivas, esforço e técnicas físicas |
+| Guarda | 25 + equipamento | 25 + equipamento | Pode ser alterada por armadura, escudo e postura |
+| Foco | 46 | 46 | Concentração e resistência mental |
 
 ## 6. Perícias iniciais
 
-`Manejo de Feras 1` já está concedida pelo Talento Afinidade Instintiva.
-
-Os 3 Pontos de Proficiência restantes podem ser distribuídos em perícias justificadas pela origem. No máximo 2 pontos podem ser colocados na mesma perícia durante a criação.
+`Manejo de Feras 1` foi concedida pelo Talento Afinidade Instintiva. Os 3 Pontos de Proficiência foram distribuídos nas três áreas mágicas escolhidas.
 
 | Perícia | Nível | Pontos investidos | Origem ou justificativa |
 |---|---:|---:|---|
 | Manejo de Feras | **1** | — | Concedida pelo Talento |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| **Pontos de Proficiência restantes** |  | **3** |  |
+| Teoria da Mana | **1** | 1 | Escolha do jogador |
+| Canalização | **1** | 1 | Escolha do jogador |
+| Invocação e vínculo | **1** | 1 | Escolha do jogador |
+| **Pontos de Proficiência restantes** |  | **0** | 3/3 distribuídos |
 
 ## 7. Identidade e origem
 
 - **Nome:**
-- **Raça:**
+- **Raça:** Elfo
 - **Idade:**
 - **Origem:**
 - **Aparência:**
@@ -135,8 +131,9 @@ Os 3 Pontos de Proficiência restantes podem ser distribuídos em perícias just
 
 ```text
 Rodada: —
-Vida: 115/115 | Mana: 80/80 | Estamina: 54/54
-Guarda: 23 + equipamento | Foco: 36/36
+Raça: Elfo | Classe: nenhuma
+Vida: 125/125 | Mana: 101/101 | Estamina: 62/62
+Guarda: 25 + equipamento | Foco: 46/46
 
 Ação Principal: disponível
 Movimento: disponível
@@ -145,7 +142,7 @@ Reação: disponível
 Estados:
 Recargas:
 Ferimentos:
-Perícias importantes: Manejo de Feras 1
+Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1
 Bênção: nenhuma
 Talento: Afinidade Instintiva
 Classe: nenhuma
@@ -153,9 +150,8 @@ Classe: nenhuma
 
 ## 9. Próximas decisões do jogador
 
-1. Distribuir os 12 pontos de atributo.
-2. Escolher ou definir a origem.
-3. Distribuir os 3 Pontos de Proficiência restantes.
-4. Definir nome, aparência, personalidade e histórico.
-5. Definir o equipamento inicial compatível com a origem.
-6. Iniciar a campanha sem classe, permitindo que a primeira classe seja descoberta ou adquirida organicamente.
+1. Escolher ou definir a origem — nascido no mundo, reencarnado, invocado ou viajante de outro mundo.
+2. Definir nome, idade, aparência, personalidade e histórico.
+3. Definir o equipamento inicial compatível com a origem e a vida de um Elfo.
+4. Definir eventuais idiomas conhecidos e vínculos iniciais.
+5. Iniciar a campanha sem classe, permitindo que a primeira classe seja descoberta ou adquirida organicamente.
