@@ -3,6 +3,8 @@
 > Este é o documento canônico da campanha. As regras abaixo orientam toda a mestragem e continuam válidas durante a aventura, salvo se o jogador e o mestre concordarem explicitamente com uma alteração.
 >
 > A seção de combate contém a **proposta inicial do sistema** e será refinada durante a definição das mecânicas.
+>
+> As tabelas de criação e a ficha de nível 1 estão em [Tabelas de Criação e Ficha Nível 1](TABELAS_E_FICHA_NIVEL_1.md).
 
 ## 1. Papéis na mesa
 
