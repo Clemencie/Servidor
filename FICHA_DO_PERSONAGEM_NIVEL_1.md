@@ -95,10 +95,10 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 | Recurso | Valor atual | Valor máximo provisório | Observações |
 |---|---:|---:|---|
 | Vida | 125 | 125 | Pode mudar com origem e equipamento |
-| Mana | 49 | 101 | 52 gastos em vínculo e treinamento de Ki |
+| Mana | 37 | 101 | 64 gastos em vínculo e treinamento de Ki |
 | Estamina | 62 | 62 | Usada por esquivas, esforço e técnicas físicas |
 | Guarda | 25 + equipamento | 25 + equipamento | Pode ser alterada por armadura, escudo e postura |
-| Foco | 28 | 46 | 18 gastos em vínculo e treinamento de Ki |
+| Foco | 22 | 46 | 24 gastos em vínculo e treinamento de Ki |
 
 ## 6. Perícias iniciais
 
@@ -108,9 +108,9 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 |---|---:|---:|---|
 | Manejo de Feras | **1** | — | Concedida pelo Talento |
 | Teoria da Mana | **1** | 1 | Escolha do jogador |
-| Canalização | **1** | 1 | Escolha do jogador |
+| Canalização | **1** | 1 | 1/3 marco para Canalização 2 |
 | Invocação e vínculo | **1** | 1 | Escolha do jogador |
-| **Ki — Circulação Interna** | **1** | — | Aprendida durante a campanha |
+| **Ki — Fluxo Interno Inicial** | **2** | — | Aprendida durante a campanha |
 | **Pontos de Proficiência restantes** |  | **0** | 3/3 distribuídos |
 
 ## 7. Identidade e origem
@@ -134,18 +134,18 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 ```text
 Rodada: —
 Raça: Elfo | Origem: Invocado de outro mundo | Classe: nenhuma
-Vida: 125/125 | Mana: 49/101 | Estamina: 62/62
-Guarda: 25 + equipamento | Foco: 28/46
+Vida: 125/125 | Mana: 37/101 | Estamina: 62/62
+Guarda: 25 + equipamento | Foco: 22/46
 
-Ação Principal: gasta — agressão durante a audiência
+Ação Principal: gasta — treinamento de Ki e Canalização
 Movimento: limitado — Laço de Contenção reforçado
 Reação: disponível, limitada pela contenção
 
-Estados: Refluxo de Vínculo em recuperação; Laço de Contenção reforçado; Ki 1 — Ciclo Estável; hostilidade declarada; sob custódia da Lanterna Branca
+Estados: Refluxo de Vínculo em recuperação; Laço de Contenção reforçado; Ki 2 — Fluxo Interno Inicial; hostilidade declarada; sob custódia da Lanterna Branca
 Recargas: Manipulação de vínculo — indisponível até recuperar a concentração
 Ferimentos: nenhum confirmado
-Local: Câmara de Silêncio da Lanterna Branca — audiência encerrada; transferência provável para o Cofre Inferior
-Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1, Ki 1 (2/3 marcos para Ki 2)
+Local: Cofre Inferior da Lanterna Branca
+Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1 (1/3 para 2), Invocação e vínculo 1, Ki 2
 Bênção: nenhuma
 Talento: Afinidade Instintiva
 Classe: nenhuma

@@ -266,4 +266,29 @@ Clemence permaneceu em silêncio enquanto a audiência era encerrada.
 
 Estado: **hostilidade declarada, custódia reforçada, possível transferência para o Cofre Inferior**.
 
+## Décima terceira interação — Ki e Canalização em conjunto
+
+Clemence foi transferido para o Cofre Inferior e continuou treinando sua circulação interna em silêncio. Ele utilizou Canalização conscientemente para controlar a Mana, separar o fluxo mágico da contenção e sustentar o ciclo de Ki.
+
+A prática foi mantida exclusivamente dentro do corpo. Nenhum NPC observou a técnica ou descobriu o nome Ki. A supressão registrou apenas uma oscilação baixa, compatível com o resíduo do próprio Laço.
+
+O aprendizado foi dividido entre as duas proficiências, mas não de forma igual. Ki recebeu o avanço principal por ser a técnica praticada; Canalização recebeu progresso secundário por ter sido usada de maneira consciente e mais refinada. Teoria da Mana obteve apenas um pequeno insight. Invocação e Vínculo não recebeu progresso nesta sessão.
+
+Resultado do treinamento:
+
+- **Ki 2 — Fluxo Interno Inicial**
+- Ki agora permite manter dois ciclos curtos e direcionar uma pequena parcela de Mana para uma ação física ou para suportar contenção.
+- **Canalização 1 — 1 marco de 3 para Canalização 2**
+- **Teoria da Mana 1 — insight parcial, sem avanço de nível**
+- **Invocação e Vínculo 1 — sem progresso nesta sessão**
+
+O avanço não concede força absurda ou um bônus permanente. A nova etapa exige aplicação prática sob movimento, pressão ou combate para se tornar confiável.
+
+Custos da sessão:
+
+- Mana: **37/101**
+- Foco: **22/46**
+
+A Igreja não identificou a origem da oscilação. Porém, o Cofre Inferior possui sensores mais sensíveis que a Câmara de Silêncio. Treinar novamente poderá chamar atenção se o fluxo ficar mais intenso.
+
 **A campanha aguarda a próxima ação de Clemence.**
