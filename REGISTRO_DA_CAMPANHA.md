@@ -4,7 +4,7 @@
 
 ## Estado do protagonista
 
-- **Nome:** Elias Vilar
+- **Nome:** Clemence
 - **Raça:** Elfo
 - **Idade:** 22 anos
 - **Origem:** Invocado da Terra contemporânea
@@ -16,21 +16,21 @@
 
 ## Capítulo I — A Invocação que Falhou
 
-Elias Vilar despertou em uma câmara subterrânea de pedra negra, no interior do Palácio Veyl, na capital de Valedorn. Ele foi trazido da Terra por um ritual de invocação clandestino. O corpo foi reconstruído como um elfo de olhos amarelos, mas suas memórias do mundo de origem permanecem.
+Clemence despertou em uma câmara subterrânea de pedra negra, no interior do Palácio Veyl, na capital de Valedorn. Ele foi trazido da Terra por um ritual de invocação clandestino. O corpo foi reconstruído como um elfo de olhos amarelos, mas suas memórias do mundo de origem permanecem.
 
 A invocação não produziu uma classe, uma bênção ou um vínculo de obediência. O círculo ritual rachou e deixou uma fissura escura aberta sob as runas. Há algo tentando atravessar a fissura, e o ritualista acredita que o vínculo incompleto pode ser usado para fechá-la — possivelmente sacrificando a alma invocada.
 
-Uma interface compreensível apenas para Elias registrou a transferência, os atributos e as proficiências. A tradução da língua local chega por contexto mágico, mas não equivale a uma proficiência linguística completa.
+Uma interface compreensível apenas para Clemence registrou a transferência, os atributos e as proficiências. A tradução da língua local chega por contexto mágico, mas não equivale a uma proficiência linguística completa.
 
 ## Pessoas presentes na câmara
 
 ### Lady Maerith Veyl
 
-Nobre responsável pela autorização do ritual. Jovem, controlada e com a mão ferida pela própria magia. Não esperava necessariamente um herói: buscava uma testemunha ou uma peça capaz de alterar uma disputa política que ameaça sua casa. Está desesperada para impedir que a Igreja descubra o ritual, mas ainda não decidiu se Elias é uma pessoa a ser protegida ou um recurso a ser usado.
+Nobre responsável pela autorização do ritual. Jovem, controlada e com a mão ferida pela própria magia. Não esperava necessariamente um herói: buscava uma testemunha ou uma peça capaz de alterar uma disputa política que ameaça sua casa. Está desesperada para impedir que a Igreja descubra o ritual, mas ainda não decidiu se Clemence é uma pessoa a ser protegida ou um recurso a ser usado.
 
 ### Magister Othmar Kest
 
-Ritualista idoso, especialista em invocação e vínculos. Perdeu parte da visão em experimentos anteriores. Considera a fissura um fenômeno raro e Elias uma variável indispensável para compreender e fechar o ritual. Sua prioridade é sobreviver e provar sua teoria, não garantir a liberdade do invocado.
+Ritualista idoso, especialista em invocação e vínculos. Perdeu parte da visão em experimentos anteriores. Considera a fissura um fenômeno raro e Clemence uma variável indispensável para compreender e fechar o ritual. Sua prioridade é sobreviver e provar sua teoria, não garantir a liberdade do invocado.
 
 ### Capitã Rhea Dorne
 
@@ -47,7 +47,7 @@ Sacerdotisa presente sob o pretexto de auxiliar na proteção do ritual. Carrega
 - A porta principal está sendo golpeada e não permanecerá segura por muito tempo.
 - A fissura no círculo aumenta lentamente.
 - Othmar afirma que a fissura pode exigir a energia da alma invocada para ser selada.
-- Maerith quer conversar com Elias antes que os inquisidores entrem.
+- Maerith quer conversar com Clemence antes que os inquisidores entrem.
 - Rhea está pronta para agir contra qualquer pessoa que tente sacrificar alguém.
 - Calienne observa todos e ainda não revelou sua verdadeira lealdade.
 
@@ -62,7 +62,7 @@ Sacerdotisa presente sob o pretexto de auxiliar na proteção do ritual. Carrega
 
 ## Último momento narrado
 
-A interface de Elias exibiu:
+A interface de Clemence exibiu:
 
 ```text
 TRANSFERÊNCIA CONCLUÍDA COM INSTABILIDADE
@@ -77,6 +77,20 @@ Estado: sem arma | sem armadura | tradução contextual ativa
 
 A fissura escura se abriu entre as runas. Do outro lado, algo tocou a pedra como se tivesse dedos longos demais.
 
-Maerith olhou diretamente para Elias e perguntou se ele conseguia ouvi-la. Nesse instante, a porta da câmara recebeu o primeiro golpe dos inquisidores.
+Maerith olhou diretamente para Clemence e perguntou se ele conseguia ouvi-la. Nesse instante, a porta da câmara recebeu o primeiro golpe dos inquisidores.
 
-**A campanha aguarda a primeira ação de Elias.**
+## Primeira interação — Nome e motivo da invocação
+
+Clemence confirmou seu nome e perguntou por que havia sido invocado. A interface atualizou o nome reconhecido sem alterar os demais dados.
+
+Maerith revelou que a Casa Veyl procurava uma consciência que não tivesse nascido sob o céu deste mundo. A **Catedral Afogada de Nhal-Veyr**, uma dungeon antiga sob as fronteiras de Valedorn, rejeita almas locais e destrói ou transforma expedições inteiras. O irmão de Maerith, Caelan Veyl, entrou na dungeon seis semanas atrás com uma companhia de soldados e não retornou.
+
+O objetivo declarado do ritual era encontrar uma alma estrangeira com grande ressonância de Mana capaz de atravessar a barreira da dungeon. Clemence não foi escolhido por uma profecia conhecida: ele correspondia aos critérios do ritual. Maerith não sabia seu nome antes da invocação.
+
+Othmar admitiu que tentativas anteriores existiram. Rhea afirmou que foram mais numerosas do que o magister admitia e que houve mortes durante os experimentos. O vínculo de Clemence ficou incompleto, portanto ele não está submetido a um contrato de obediência. A fissura, entretanto, parece reconhecer a presença dele como uma possível âncora.
+
+Maerith ofereceu proteção e informação caso Clemence coopere, mas não prometeu liberdade completa nem revelou todos os interesses da Casa Veyl. Rhea deixou claro que não permitirá um sacrifício fácil. Calienne permaneceu em silêncio quando a fissura repetiu o nome de Clemence em uma voz que não pertencia a ninguém na sala.
+
+A porta da câmara está cedendo. A primeira ação de Clemence foi uma pergunta; a próxima decisão poderá alterar sua relação com Maerith, Othmar, Rhea e Calienne antes que a Inquisição entre.
+
+**A campanha aguarda a próxima ação de Clemence.**

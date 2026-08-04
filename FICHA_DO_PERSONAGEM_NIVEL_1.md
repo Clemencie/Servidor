@@ -5,7 +5,7 @@
 ## 1. Estado atual
 
 - **Nível:** 1
-- **Nome:** Elias Vilar
+- **Nome:** Clemence
 - **Raça:** Elfo
 - **Origem:** Invocado de outro mundo
 - **Classe:** nenhuma
@@ -114,7 +114,7 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 
 ## 7. Identidade e origem
 
-- **Nome:** Elias Vilar
+- **Nome:** Clemence
 - **Raça:** Elfo
 - **Idade:** 22 anos
 - **Origem:** Invocado de outro mundo — a Terra atual do jogador
