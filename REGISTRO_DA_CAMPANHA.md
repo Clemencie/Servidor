@@ -119,4 +119,32 @@ Maerith passou a considerar Clemence uma ameaça potencial, não apenas um invoc
 
 A porta da câmara está prestes a ceder. A Inquisição entrará no próximo momento de conflito, e o combate poderá começar se ninguém alterar a situação.
 
+## Quarta interação — Ameaça de ruína
+
+Clemence ameaçou trazer ódio e ruína a todos caso fosse morto, usando a fissura e o vínculo incompleto como possível fundamento para a ameaça.
+
+As palavras não criaram uma maldição automática. Clemence não possui uma técnica que transforme uma promessa em destruição garantida. Ainda assim, a ameaça teve efeito parcial porque Othmar sabe que a morte do invocado pode afetar a fissura e porque ninguém compreende completamente o que está ligado ao outro lado.
+
+O inquisidor Varric alterou a ordem de execução para contenção. Os inquisidores tentarão capturar Clemence vivo, mas a mudança não representa confiança: significa que pretendem interrogá-lo e estudar o vínculo. Rhea passou a defender a posição de Clemence e dos demais contra a entrada da Inquisição. Maerith considera a ameaça uma demonstração perigosa de instabilidade. Calienne percebeu que a Igreja também teme o que pode acontecer se o invocado morrer.
+
+Um laço de luz foi preparado contra Clemence. A Reação dele está disponível para responder ao ataque.
+
+## Quinta interação — Recusa e captura
+
+Clemence declarou que se recusava a servir e permaneceu em silêncio, escolhendo não gastar sua Reação contra o Laço de Contenção da Lanterna Branca.
+
+O laço atingiu seu corpo. A magia restringe movimentos e canalização, mas não estabelece servidão nem altera sua vontade. A recusa foi mantida; o personagem está contido, não convertido em servo.
+
+Varric ordenou que Clemence fosse capturado vivo. Maerith percebeu que a contenção não significa lealdade e passou a considerar se deveria interferir ou proteger a fissura. Rhea tentou manter os inquisidores afastados. Othmar ficou interessado no fato de a magia não ter conseguido transformar o vínculo incompleto em uma ordem de obediência. Calienne não confirmou se pretende ajudar a conter ou libertar o invocado.
+
+Estado atual de Clemence:
+
+- Movimento: **indisponível enquanto o Laço persistir**
+- Ação Principal: **gasta**
+- Reação: **disponível, mas limitada pela contenção**
+- Vida: **125/125**
+- Mana: **81/101**
+- Foco: **42/46**
+- Estado: **Laço de Contenção — corpo preso, vontade livre**
+
 **A campanha aguarda a próxima ação de Clemence.**

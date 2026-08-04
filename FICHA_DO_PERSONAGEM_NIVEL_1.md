@@ -137,10 +137,10 @@ Vida: 125/125 | Mana: 81/101 | Estamina: 62/62
 Guarda: 25 + equipamento | Foco: 42/46
 
 Ação Principal: gasta — inversão de vínculo
-Movimento: disponível
-Reação: disponível
+Movimento: indisponível — Laço de Contenção
+Reação: disponível, limitada pela contenção
 
-Estados: Refluxo de Vínculo
+Estados: Refluxo de Vínculo; Laço de Contenção
 Recargas: Manipulação de vínculo — indisponível até recuperar a concentração
 Ferimentos:
 Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1
