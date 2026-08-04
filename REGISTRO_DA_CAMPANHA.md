@@ -192,4 +192,24 @@ Calienne deixou uma tira de tecido branco sobre a mesa antes de sair. O símbolo
 
 Estado atual: **Câmara de Silêncio, sob custódia da Lanterna Branca**.
 
+## Nona interação — Treinamento secreto de Ki
+
+Clemence continuou praticando a circulação de Ki internamente, sem realizar movimentos visíveis ou emitir uma magia para fora do corpo. Nenhum NPC percebeu o treinamento. O círculo de supressão registrou apenas oscilações mínimas, insuficientes para disparar um alerta.
+
+As primeiras tentativas foram instáveis. O Laço apertava sempre que a Mana chegava aos pulsos, obrigando Clemence a aprender a circular ao redor da contenção em vez de tentar rompê-la. Depois de vários ciclos, ele conseguiu manter a corrente interna por mais tempo e descobriu uma forma de reduzir o desperdício de Mana.
+
+A proficiência não subiu imediatamente para Ki 2. O treinamento produziu um marco real de aprendizado e estabilizou a base da técnica:
+
+- **Ki 1 — Ciclo Estável**
+- Progresso para Ki 2: **1 marco de 3**
+- Efeito: um ciclo interno pode ser mantido por alguns minutos com pouca manifestação externa.
+- Limite: ainda não fornece bônus físico permanente nem rompe o Laço.
+
+Custos da sessão de prática:
+
+- Mana: **61/101**
+- Foco: **34/46**
+
+O tempo passou na Câmara de Silêncio. Uma troca de guardas ocorreu, a comida foi substituída e uma ordem selada foi entregue ao corredor sobre o julgamento da Casa Veyl. O mundo continuou avançando enquanto Clemence treinava.
+
 **A campanha aguarda a próxima ação de Clemence.**
