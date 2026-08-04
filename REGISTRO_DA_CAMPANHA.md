@@ -212,4 +212,26 @@ Custos da sessão de prática:
 
 O tempo passou na Câmara de Silêncio. Uma troca de guardas ocorreu, a comida foi substituída e uma ordem selada foi entregue ao corredor sobre o julgamento da Casa Veyl. O mundo continuou avançando enquanto Clemence treinava.
 
+## Décima interação — Treino até a audiência
+
+Clemence ignorou a mensagem e continuou treinando Ki em silêncio. O treinamento permaneceu interno; nenhum guarda viu movimentos ou ouviu palavras, e nenhum NPC identificou a nova proficiência. O círculo de supressão percebeu apenas uma flutuação interna baixa, interpretada como atividade residual do Laço.
+
+O primeiro sino tocou enquanto Clemence repetia os ciclos. No segundo sino, ele conseguiu manter a circulação mesmo quando a contenção tentava apertar os canais. Aprendeu a usar o próprio ritmo da supressão contra ela, sem tentar quebrá-la.
+
+O aprendizado avançou:
+
+- **Ki 1 — Ciclo Estável**
+- Progresso para Ki 2: **2 marcos de 3**
+- Novo domínio: manter circulação discreta sob uma contenção mágica.
+- Próximo marco provável: aplicar Ki em movimento ou em uma situação de estresse real.
+
+O treinamento consumiu mais Mana e Foco, mas não causou ferimentos. Quando o terceiro sino tocou, a porta da Câmara de Silêncio se abriu.
+
+Varric entrou acompanhado de Calienne e de um inquisidor mais velho carregando um cristal negro de supressão. A audiência foi antecipada e a Igreja agora pretende registrar a primeira declaração oficial de Clemence. Eles ainda não sabem que uma nova proficiência está sendo construída dentro dele.
+
+Custos registrados:
+
+- Mana: **49/101**
+- Foco: **28/46**
+
 **A campanha aguarda a próxima ação de Clemence.**

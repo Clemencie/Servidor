@@ -95,10 +95,10 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 | Recurso | Valor atual | Valor máximo provisório | Observações |
 |---|---:|---:|---|
 | Vida | 125 | 125 | Pode mudar com origem e equipamento |
-| Mana | 61 | 101 | 40 gastos em vínculo e treinamento de Ki |
+| Mana | 49 | 101 | 52 gastos em vínculo e treinamento de Ki |
 | Estamina | 62 | 62 | Usada por esquivas, esforço e técnicas físicas |
 | Guarda | 25 + equipamento | 25 + equipamento | Pode ser alterada por armadura, escudo e postura |
-| Foco | 34 | 46 | 12 gastos em vínculo e treinamento de Ki |
+| Foco | 28 | 46 | 18 gastos em vínculo e treinamento de Ki |
 
 ## 6. Perícias iniciais
 
@@ -134,8 +134,8 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 ```text
 Rodada: —
 Raça: Elfo | Origem: Invocado de outro mundo | Classe: nenhuma
-Vida: 125/125 | Mana: 61/101 | Estamina: 62/62
-Guarda: 25 + equipamento | Foco: 34/46
+Vida: 125/125 | Mana: 49/101 | Estamina: 62/62
+Guarda: 25 + equipamento | Foco: 28/46
 
 Ação Principal: gasta — treinamento de Ki
 Movimento: limitado — Laço de Contenção fixado à parede
@@ -144,8 +144,8 @@ Reação: disponível, limitada pela contenção
 Estados: Refluxo de Vínculo em recuperação; Laço de Contenção; Ki 1 — Ciclo Estável; sob custódia da Lanterna Branca
 Recargas: Manipulação de vínculo — indisponível até recuperar a concentração
 Ferimentos: nenhum confirmado
-Local: Câmara de Silêncio da Lanterna Branca
-Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1, Ki 1 (1/3 marcos para Ki 2)
+Local: Câmara de Silêncio da Lanterna Branca — audiência iniciada
+Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1, Ki 1 (2/3 marcos para Ki 2)
 Bênção: nenhuma
 Talento: Afinidade Instintiva
 Classe: nenhuma
