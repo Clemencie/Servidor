@@ -93,4 +93,30 @@ Maerith ofereceu proteção e informação caso Clemence coopere, mas não prome
 
 A porta da câmara está cedendo. A primeira ação de Clemence foi uma pergunta; a próxima decisão poderá alterar sua relação com Maerith, Othmar, Rhea e Calienne antes que a Inquisição entre.
 
+## Segunda interação — Ameaça e blefe
+
+Clemence cruzou os braços e afirmou que possuía conhecimento de sua vida e uma forma de resolver tudo, exigindo cordialidade sob ameaça de trazer caos ao mundo.
+
+A declaração não convenceu completamente os presentes, mas produziu um efeito real. Maerith percebeu que não poderia tratar Clemence como um prisioneiro dócil e ordenou que Rhea não baixasse a guarda, mas também não o ameaçasse. Rhea demonstrou respeito cauteloso pela coragem. Othmar tornou-se mais desconfiado e começou a procurar contradições técnicas no blefe. Calienne passou a observar Clemence como uma possível influência perigosa, não apenas como uma vítima.
+
+Maerith respondeu que a Casa Veyl começaria a tratá-lo como interlocutor, mas exigiu que ele provasse que seu conhecimento possuía valor antes de confiar nele. Othmar pretende testá-lo com perguntas sobre a fissura. A porta continua cedendo e a fissura reagiu à ameaça, ampliando-se.
+
+## Terceira interação — Tentativa de inversão do vínculo
+
+Clemence tentou usar sua proficiência básica de Invocação e Vínculo para inverter o suposto feitiço de servo e transformar Maerith em sua serva.
+
+A tentativa revelou que não havia um feitiço de servidão ativo sobre Maerith. O ritual possuía uma estrutura de dependência entre a Casa Veyl, o invocado e a fissura, mas não uma autoridade simples que pudesse ser tomada por Clemence. Sua Aptidão Mágica permitiu que ele enxergasse os fios, porém sua proficiência de nível 1 não foi suficiente para reescrever a arquitetura.
+
+O resultado foi uma **falha parcial com refluxo**: Maerith sentiu sua alma ser puxada por um instante e uma marca escura apareceu em seu pulso, mas ela não foi controlada. A inversão acabou prendendo temporariamente Clemence à fissura como uma âncora mais visível.
+
+Custos registrados:
+
+- Mana: **81/101**
+- Foco: **42/46**
+- Estado: **Refluxo de Vínculo** — não é possível tentar outra manipulação de vínculo até a recuperação da concentração.
+
+Maerith passou a considerar Clemence uma ameaça potencial, não apenas um invocado vulnerável. Rhea colocou-se entre os dois e declarou que uma nova tentativa de escravização seria respondida com a espada. Othmar ficou fascinado com a capacidade de Clemence tocar o vínculo e pretende explorar isso. Calienne passou a tratar a tentativa como prova de heresia.
+
+A porta da câmara está prestes a ceder. A Inquisição entrará no próximo momento de conflito, e o combate poderá começar se ninguém alterar a situação.
+
 **A campanha aguarda a próxima ação de Clemence.**

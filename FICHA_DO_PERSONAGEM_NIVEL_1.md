@@ -95,10 +95,10 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 | Recurso | Valor atual | Valor máximo provisório | Observações |
 |---|---:|---:|---|
 | Vida | 125 | 125 | Pode mudar com origem e equipamento |
-| Mana | 101 | 101 | Nenhuma magia específica conhecida ainda |
+| Mana | 81 | 101 | 20 gastos na tentativa de inversão do vínculo |
 | Estamina | 62 | 62 | Usada por esquivas, esforço e técnicas físicas |
 | Guarda | 25 + equipamento | 25 + equipamento | Pode ser alterada por armadura, escudo e postura |
-| Foco | 46 | 46 | Concentração e resistência mental |
+| Foco | 42 | 46 | 4 gastos na tentativa de inversão do vínculo |
 
 ## 6. Perícias iniciais
 
@@ -133,15 +133,15 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 ```text
 Rodada: —
 Raça: Elfo | Origem: Invocado de outro mundo | Classe: nenhuma
-Vida: 125/125 | Mana: 101/101 | Estamina: 62/62
-Guarda: 25 + equipamento | Foco: 46/46
+Vida: 125/125 | Mana: 81/101 | Estamina: 62/62
+Guarda: 25 + equipamento | Foco: 42/46
 
-Ação Principal: disponível
+Ação Principal: gasta — inversão de vínculo
 Movimento: disponível
 Reação: disponível
 
-Estados:
-Recargas:
+Estados: Refluxo de Vínculo
+Recargas: Manipulação de vínculo — indisponível até recuperar a concentração
 Ferimentos:
 Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1
 Bênção: nenhuma
