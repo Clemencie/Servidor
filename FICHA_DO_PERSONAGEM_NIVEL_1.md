@@ -1,12 +1,12 @@
 # Ficha do Personagem do Jogador — Nível 1
 
-> Ficha atualizada com as rolagens, raça, atributos e proficiências escolhidos pelo jogador. A criação ainda está incompleta: faltam nome, origem e equipamento.
+> Ficha atualizada com as rolagens, raça, atributos, proficiências, origem, aparência e equipamento escolhidos pelo jogador. A criação ainda está incompleta: falta definir o nome, a personalidade e os detalhes da invocação.
 
 ## 1. Estado atual
 
 - **Nível:** 1
 - **Raça:** Elfo
-- **Origem:** a escolher
+- **Origem:** Invocado de outro mundo
 - **Classe:** nenhuma
 - **Título:** nenhum
 - **Pontos de Atributo:** 0 disponíveis — 12 distribuídos
@@ -113,25 +113,25 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 
 ## 7. Identidade e origem
 
-- **Nome:**
+- **Nome:** não definido
 - **Raça:** Elfo
-- **Idade:**
-- **Origem:**
-- **Aparência:**
-- **Personalidade:**
-- **Histórico resumido:**
-- **Motivação inicial:**
-- **Medo ou fraqueza:**
-- **Arma ou ferramenta inicial:**
-- **Armadura/equipamento:**
-- **Dinheiro e pertences:**
-- **Dívidas, vínculos ou segredos:**
+- **Idade:** 22 anos
+- **Origem:** Invocado de outro mundo — a Terra atual do jogador
+- **Aparência:** 1,82 m, pele branca, olhos amarelos, cabelo escuro até os ombros, corpo tonificado e cintura fina
+- **Personalidade:** a definir pelo jogador
+- **Histórico resumido:** invocado de seu mundo de origem para este universo de fantasia
+- **Motivação inicial:** a definir pelo jogador
+- **Medo ou fraqueza:** a definir pelo jogador
+- **Arma ou ferramenta inicial:** nenhuma definida
+- **Armadura/equipamento:** vestes nobres finas, sem proteção de combate confirmada
+- **Dinheiro e pertences:** a definir conforme o contexto da invocação
+- **Dívidas, vínculos ou segredos:** a definir
 
 ## 8. Registro de campanha
 
 ```text
 Rodada: —
-Raça: Elfo | Classe: nenhuma
+Raça: Elfo | Origem: Invocado de outro mundo | Classe: nenhuma
 Vida: 125/125 | Mana: 101/101 | Estamina: 62/62
 Guarda: 25 + equipamento | Foco: 46/46
 
@@ -150,8 +150,9 @@ Classe: nenhuma
 
 ## 9. Próximas decisões do jogador
 
-1. Escolher ou definir a origem — nascido no mundo, reencarnado, invocado ou viajante de outro mundo.
-2. Definir nome, idade, aparência, personalidade e histórico.
-3. Definir o equipamento inicial compatível com a origem e a vida de um Elfo.
-4. Definir eventuais idiomas conhecidos e vínculos iniciais.
-5. Iniciar a campanha sem classe, permitindo que a primeira classe seja descoberta ou adquirida organicamente.
+1. Definir o nome do personagem.
+2. Definir personalidade, motivação, medo ou fraqueza.
+3. Definir como ocorreu a invocação e quem ou o que a realizou.
+4. Definir idiomas conhecidos e os primeiros vínculos deste mundo.
+5. Confirmar se as vestes nobres foram entregues pelo invocador e se possuem alguma propriedade especial.
+6. Iniciar a campanha sem classe, permitindo que a primeira classe seja descoberta ou adquirida organicamente.
