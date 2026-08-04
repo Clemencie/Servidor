@@ -5,6 +5,8 @@
 ## 1. Estado atual
 
 - **Nível:** 1
+- **Raça:** a escolher
+- **Origem:** a escolher
 - **Classe:** nenhuma
 - **Título:** nenhum
 - **Pontos de Atributo:** 12 disponíveis
@@ -116,6 +118,7 @@ Os 3 Pontos de Proficiência restantes podem ser distribuídos em perícias just
 ## 7. Identidade e origem
 
 - **Nome:**
+- **Raça:**
 - **Idade:**
 - **Origem:**
 - **Aparência:**
