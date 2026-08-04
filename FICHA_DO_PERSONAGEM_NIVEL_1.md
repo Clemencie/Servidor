@@ -137,14 +137,14 @@ Raça: Elfo | Origem: Invocado de outro mundo | Classe: nenhuma
 Vida: 125/125 | Mana: 69/101 | Estamina: 62/62
 Guarda: 25 + equipamento | Foco: 37/46
 
-Ação Principal: gasta — circulação inicial de Ki
-Movimento: indisponível — Laço de Contenção
+Ação Principal: disponível na próxima janela
+Movimento: limitado — Laço de Contenção fixado à parede
 Reação: disponível, limitada pela contenção
 
-Estados: Refluxo de Vínculo; Laço de Contenção; Ki em circulação instável; sob custódia da Lanterna Branca
+Estados: Refluxo de Vínculo em recuperação; Laço de Contenção; Ki aprendido, não ativo; sob custódia da Lanterna Branca
 Recargas: Manipulação de vínculo — indisponível até recuperar a concentração
 Ferimentos: nenhum confirmado
-Local: galeria subterrânea do Palácio Veyl, escoltado para interrogatório
+Local: Câmara de Silêncio da Lanterna Branca
 Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1, Ki 1
 Bênção: nenhuma
 Talento: Afinidade Instintiva

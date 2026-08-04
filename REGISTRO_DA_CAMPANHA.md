@@ -178,4 +178,18 @@ Custos registrados:
 
 Calienne percebeu que Clemence estava usando o próprio corpo como um círculo mágico. Varric ordenou que a contenção fosse reforçada, temendo que a nova técnica permitisse uma fuga. A Igreja ainda não sabe se Ki é uma forma de magia, uma proficiência física ou algo que não existe em suas doutrinas.
 
+## Oitava interação — Silêncio prolongado
+
+Clemence permaneceu quieto e não tentou continuar a circulação, responder a Calienne ou resistir à contenção. O primeiro ciclo de Ki se desfez sem causar ferimentos adicionais. A nova proficiência permanece aprendida, mas não está sendo sustentada como um efeito ativo.
+
+Calienne interpretou o silêncio como uma escolha deliberada, não como submissão. Varric decidiu adiar o interrogatório direto e transferir Clemence para a Câmara de Silêncio, uma cela de observação criada para prisioneiros capazes de usar Mana. O Laço de Contenção foi mantido durante o trajeto.
+
+No caminho, Clemence passou por corredores onde soldados feridos eram atendidos, criados eram interrogados e nobres da Casa Veyl eram retirados de seus aposentos. A captura dele não encerrou a crise no palácio: a fissura está apenas selada temporariamente, Rhea está sob custódia, Maerith foi levada para prestar contas e Othmar continua desaparecido com um fragmento das runas.
+
+Clemence foi colocado em uma cela de pedra clara, com uma abertura estreita para luz e um círculo de supressão no chão. Recebeu água e alimento simples. O Laço continua ativo, mas foi transferido para uma corrente fixada na parede, permitindo que ele se sente ou deite sem liberdade para deixar a cela.
+
+Calienne deixou uma tira de tecido branco sobre a mesa antes de sair. O símbolo bordado não corresponde exatamente ao emblema oficial da Lanterna Branca.
+
+Estado atual: **Câmara de Silêncio, sob custódia da Lanterna Branca**.
+
 **A campanha aguarda a próxima ação de Clemence.**
