@@ -291,4 +291,30 @@ Custos da sessão:
 
 A Igreja não identificou a origem da oscilação. Porém, o Cofre Inferior possui sensores mais sensíveis que a Câmara de Silêncio. Treinar novamente poderá chamar atenção se o fluxo ficar mais intenso.
 
+## Décima quarta interação — Repouso e passagem do tempo
+
+Clemence decidiu descansar até recuperar completamente Mana e Foco. Ele não praticou Ki nem tentou manipular o Laço durante o repouso.
+
+O descanso ocorreu sob custódia, com alimentação simples, água e períodos de sono interrompidos pelas inspeções dos guardas. A supressão não drena Mana passivamente; ela apenas dificulta o uso ativo. Depois de uma noite completa e parte do dia seguinte, os recursos foram restaurados.
+
+Enquanto Clemence descansava, o mundo continuou avançando:
+
+- O julgamento preliminar da Casa Veyl confiscou parte dos bens da família e manteve Maerith detida para investigação.
+- Rhea foi transferida para custódia militar por ter atacado agentes da Lanterna Branca durante a operação.
+- Othmar continua desaparecido com o fragmento das runas.
+- Uma nova abertura foi detectada perto de uma aldeia ao norte, fazendo a Igreja antecipar a expedição à Catedral Afogada.
+- Calienne foi afastada formalmente da audiência, mas seu destino dentro da Igreja ainda não foi decidido.
+
+Estado após o repouso:
+
+- Vida: **125/125**
+- Mana: **101/101**
+- Estamina: **62/62**
+- Foco: **46/46**
+- Refluxo de Vínculo: recuperado
+- Ki 2: aprendido, não ativo
+- Laço de Contenção: ativo
+
+Quando o terceiro período de vigília começou, Varric apareceu diante da cela com duas pessoas que Clemence ainda não conhecia. A expedição foi antecipada, e a Igreja precisa decidir se Clemence será levado como prisioneiro, agente conscrito ou risco a ser eliminado antes que a nova abertura cresça.
+
 **A campanha aguarda a próxima ação de Clemence.**

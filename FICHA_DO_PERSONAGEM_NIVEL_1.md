@@ -95,10 +95,10 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 | Recurso | Valor atual | Valor máximo provisório | Observações |
 |---|---:|---:|---|
 | Vida | 125 | 125 | Pode mudar com origem e equipamento |
-| Mana | 37 | 101 | 64 gastos em vínculo e treinamento de Ki |
+| Mana | 101 | 101 | Restaurada durante o repouso |
 | Estamina | 62 | 62 | Usada por esquivas, esforço e técnicas físicas |
 | Guarda | 25 + equipamento | 25 + equipamento | Pode ser alterada por armadura, escudo e postura |
-| Foco | 22 | 46 | 24 gastos em vínculo e treinamento de Ki |
+| Foco | 46 | 46 | Restaurado durante o repouso |
 
 ## 6. Perícias iniciais
 
@@ -134,17 +134,17 @@ Foco mental = 10 + (Percepção × 2) + (Vontade × 2)
 ```text
 Rodada: —
 Raça: Elfo | Origem: Invocado de outro mundo | Classe: nenhuma
-Vida: 125/125 | Mana: 37/101 | Estamina: 62/62
-Guarda: 25 + equipamento | Foco: 22/46
+Vida: 125/125 | Mana: 101/101 | Estamina: 62/62
+Guarda: 25 + equipamento | Foco: 46/46
 
-Ação Principal: gasta — treinamento de Ki e Canalização
+Ação Principal: disponível na próxima janela
 Movimento: limitado — Laço de Contenção reforçado
 Reação: disponível, limitada pela contenção
 
-Estados: Refluxo de Vínculo em recuperação; Laço de Contenção reforçado; Ki 2 — Fluxo Interno Inicial; hostilidade declarada; sob custódia da Lanterna Branca
-Recargas: Manipulação de vínculo — indisponível até recuperar a concentração
+Estados: Ki 2 — Fluxo Interno Inicial; hostilidade declarada; sob custódia da Lanterna Branca
+Recargas: Manipulação de vínculo disponível; Laço de Contenção ativo
 Ferimentos: nenhum confirmado
-Local: Cofre Inferior da Lanterna Branca
+Local: Cofre Inferior da Lanterna Branca — aguardando decisão da expedição
 Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1 (1/3 para 2), Invocação e vínculo 1, Ki 2
 Bênção: nenhuma
 Talento: Afinidade Instintiva
