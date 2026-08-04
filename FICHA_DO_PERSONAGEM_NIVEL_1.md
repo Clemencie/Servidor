@@ -137,14 +137,14 @@ Raça: Elfo | Origem: Invocado de outro mundo | Classe: nenhuma
 Vida: 125/125 | Mana: 49/101 | Estamina: 62/62
 Guarda: 25 + equipamento | Foco: 28/46
 
-Ação Principal: gasta — declaração na audiência
-Movimento: limitado — Laço de Contenção fixado à parede
+Ação Principal: gasta — agressão durante a audiência
+Movimento: limitado — Laço de Contenção reforçado
 Reação: disponível, limitada pela contenção
 
-Estados: Refluxo de Vínculo em recuperação; Laço de Contenção; Ki 1 — Ciclo Estável; sob custódia da Lanterna Branca
+Estados: Refluxo de Vínculo em recuperação; Laço de Contenção reforçado; Ki 1 — Ciclo Estável; hostilidade declarada; sob custódia da Lanterna Branca
 Recargas: Manipulação de vínculo — indisponível até recuperar a concentração
 Ferimentos: nenhum confirmado
-Local: Câmara de Silêncio da Lanterna Branca — audiência iniciada
+Local: Câmara de Silêncio da Lanterna Branca — audiência encerrada; transferência provável para o Cofre Inferior
 Perícias importantes: Manejo de Feras 1, Teoria da Mana 1, Canalização 1, Invocação e vínculo 1, Ki 1 (2/3 marcos para Ki 2)
 Bênção: nenhuma
 Talento: Afinidade Instintiva

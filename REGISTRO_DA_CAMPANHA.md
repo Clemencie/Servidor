@@ -252,4 +252,18 @@ A acusação não convenceu a Igreja a libertá-lo, mas impediu que o discurso o
 
 Ação atual: declaração social concluída. Ação Principal gasta nesta janela da audiência.
 
+## Décima segunda interação — Agressão e ruptura de confiança
+
+Clemence cuspiu no rosto de Calienne e fechou os olhos, recusando-se a falar novamente.
+
+O gesto não causou dano físico, mas foi uma agressão direta contra uma representante da Igreja durante uma audiência. Calienne não reagiu com violência imediata. Limpou o rosto, recolheu a tira de tecido com o símbolo incompleto e declarou que não falaria mais em defesa de Clemence.
+
+Edran registrou o ato como hostilidade deliberada e suspendeu a possibilidade de Clemence ser tratado como agente diplomático. Varric reforçou o Laço de Contenção e ordenou que a próxima transferência fosse para uma cela mais profunda, com observação contínua. A Igreja ainda pretende usar Clemence como possível chave da Catedral Afogada, mas agora o considera um prisioneiro hostil, não um interlocutor.
+
+A relação com Calienne sofreu uma ruptura grave. A possível ajuda que ela oferecia por meio do símbolo foi retirada. Edran tornou-se mais rígido; Varric permaneceu pragmático e Maerith não foi informada da agressão ainda.
+
+Clemence permaneceu em silêncio enquanto a audiência era encerrada.
+
+Estado: **hostilidade declarada, custódia reforçada, possível transferência para o Cofre Inferior**.
+
 **A campanha aguarda a próxima ação de Clemence.**
